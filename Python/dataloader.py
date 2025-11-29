@@ -31,38 +31,34 @@ class DataLoaderPT:
         self.current_idx = 0
         self.epoch = 0
 
-    def _get_token_pairs(self, entry):
-        x_tokens = self.enc.encode(entry['original'])
-        y_tokens = self.enc.encode(entry['transformed'])
-        return torch.tensor(x_tokens, dtype = torch.long), torch.tensor(y_tokens, dtype = torch.long)
-
     def nextBatch(self):
-        batch_x, batch_y = [], []
+        batch_x = []
+        batch_y = []
 
         for _ in range(self.batch_size):
             if self.current_idx >= len(self.entries):
                 raise StopIteration
 
             entry = self.entries[self.current_idx]
-            x_tokens = self.enc.encode(entry['original'])
-            y_tokens = self.enc.encode(entry['transformed'])
 
+            # encode input + target together
+            tokens = self.enc.encode_pair(entry['original'], entry['transformed'])
+            # For causal LM, input = all tokens except last, target = all tokens except first
+            x_tokens = tokens[:-1]
+            y_tokens = tokens[1:]
+
+            # pad to sequence_length
             max_len = max(len(x_tokens), len(y_tokens), self.sequence_length)
-            x_tokens = x_tokens[:max_len]
-            y_tokens = y_tokens[:max_len]
+            x_tokens = x_tokens[:max_len] + [0]*(max_len - len(x_tokens))
+            y_tokens = y_tokens[:max_len] + [0]*(max_len - len(y_tokens))
 
-            pad_len_x = max_len - len(x_tokens)
-            pad_len_y = max_len - len(y_tokens)
-
-            x_tokens = x_tokens + [0] * pad_len_x
-            y_tokens = y_tokens + [0] * pad_len_y
-
-            batch_x.append(torch.tensor(x_tokens, dtype = torch.long))
-            batch_y.append(torch.tensor(y_tokens, dtype = torch.long))
+            batch_x.append(torch.tensor(x_tokens, dtype=torch.long))
+            batch_y.append(torch.tensor(y_tokens, dtype=torch.long))
 
             self.current_idx += 1
 
         return torch.stack(batch_x), torch.stack(batch_y)
+
 
 
     def reset_eval(self):

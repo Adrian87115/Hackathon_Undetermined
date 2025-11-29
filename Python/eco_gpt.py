@@ -86,32 +86,35 @@ class ECOGPT():
             while True:
                 t0 = time.time()
                 self.optimizer.zero_grad()
-                loss_accum = 0.0
 
                 try:
-                    for _ in range(self.grad_accum_steps):
-                        x, y = self.train_loader.nextBatch()
-                        x, y = x.to(self.device), y.to(self.device)
-                        _, loss = self.model(x, y)
-                        loss = loss / self.grad_accum_steps
-                        loss_accum += loss.detach()
-                        loss.backward()
+                    x, y = self.train_loader.nextBatch()
+                    x, y = x.to(self.device), y.to(self.device)
+
+                    _, loss = self.model(x, y)
+                    loss.backward()
 
                 except StopIteration:
-                    break
+                    break  # End of epoch
 
+                # Gradient clip + step
                 norm = torch.nn.utils.clip_grad_norm_(self.model.parameters(), 1.0)
                 self.optimizer.step()
                 torch.cuda.synchronize()
-                total_loss += loss_accum.item()
+
+                total_loss += loss.item()
                 total_batches += 1
+
                 dt = (time.time() - t0) * 1000
-                print(f"Batch {total_batches:4d} | Loss: {loss_accum.item():.6f} | Norm: {norm:.4f} | Time: {dt:.2f} ms")
+                print(f"Batch {total_batches:4d} | Loss: {loss.item():.6f} | Norm: {norm:.4f} | Time: {dt:.2f} ms")
 
             avg_train_loss = total_loss / max(1, total_batches)
             print(f"\nEpoch {epoch} completed. Avg Train Loss: {avg_train_loss:.6f}")
+
+            # Evaluate and save checkpoint
             self.evaluate()
             self.saveModel()
+
 
     def evaluate(self):
         print(f"Evaluating (Epoch {self.current_epoch})...")
@@ -138,38 +141,47 @@ class ECOGPT():
         with open("logs/evaluation_log.txt", "a") as f:
             f.write(f"Epoch {self.current_epoch}: {avg_loss:.4f}\n")
 
-    def generateResponse(self, input, max_seq_length = 128):
+    def generateResponse(self, input, max_seq_length = 64):
         self.model.eval()
         enc = u.CustomTokenizer()
-        prompt = f"<|start|>{input}<|end|>\n"
+
+        # Use <|sep|> to indicate start of target
+        prompt = f"<|start|>{input}<|sep|>"
+        print(prompt)
         input_tokens = enc.encode(prompt)
-        tokens_tensor = torch.tensor(input_tokens, dtype = torch.long).unsqueeze(0).to(self.device)
+        print(input_tokens)
+        tokens_tensor = torch.tensor(input_tokens, dtype=torch.long).unsqueeze(0).to(self.device)
 
         with torch.no_grad():
             for _ in range(max_seq_length):
                 logits = self.model(tokens_tensor)
-            
+
                 if logits.dim() == 2:
                     logits = logits.unsqueeze(0)
-                
-                logits_last = logits[:, -1, :]
-                probs = F.softmax(logits_last, dim = -1)
-                next_token = torch.multinomial(probs, num_samples = 1)
-                next_token = torch.clamp(next_token, 0, self.config.vocab_size - 1)
-                tokens_tensor = torch.cat((tokens_tensor, next_token), dim = 1)
-                decoded = enc.decode(tokens_tensor[0].tolist())
 
+                logits_last = logits[:, -1, :]
+                probs = F.softmax(logits_last, dim=-1)
+                next_token = torch.multinomial(probs, num_samples=1)
+                next_token = torch.clamp(next_token, 0, self.config.vocab_size - 1)
+                tokens_tensor = torch.cat((tokens_tensor, next_token), dim=1)
+
+                decoded = enc.decode(tokens_tensor[0].tolist())
                 if "<|end|>" in decoded:
                     break
-
-        response = enc.decode(tokens_tensor[0].tolist()).split("<|end|>")[0].replace("<|start|>", "").strip()
+        print(tokens_tensor)
+        # Strip start and separator tokens, keep only the target
+        full_decoded = enc.decode(tokens_tensor[0].tolist())
+        print(full_decoded)
+        response = full_decoded.split("<|sep|>")[-1].split("<|end|>")[0].strip()
         return response
+
 
 
 def convert(model):
     assert model.checkpoint is not None, "No checkpoint."
     print("===== ECO GPT =====")
-    print("Provide an input, and I will simplify it for you. Type 'exit' to quit.\n")
+    print("Provide an input text, and I will transform it for you.")
+    print("Type 'exit' to quit.\n")
 
     while True:
         user_input = input("Input: ").strip()
@@ -178,7 +190,9 @@ def convert(model):
             print("Goodbye!")
             break
 
+        # Generate the model response
         output = model.generateResponse(user_input)
-        print("\n=== Generated output ===\n")
+
+        print("\n=== Generated Output ===\n")
         print(output)
-        print("\n===========================\n")
+        print("\n=======================\n")

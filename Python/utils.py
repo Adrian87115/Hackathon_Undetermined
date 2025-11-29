@@ -34,13 +34,20 @@ class CustomTokenizer:
                                      mergeable_ranks = base_enc._mergeable_ranks,
                                      special_tokens = {**base_enc._special_tokens,
                                                        "<|start|>": 50257,
-                                                       "<|end|>": 50258})
-        self.allowed_special = {"<|start|>", "<|end|>"}
+                                                       "<|sep|>" : 50258,
+                                                       "<|end|>": 50259})
+        self.allowed_special = {"<|start|>", "<|sep|>", "<|end|>"}
 
-    def encode(self, text, add_special_tokens = True):
-        if add_special_tokens:
-            text = f"<|start|>{text}<|end|>"
-        return self.enc.encode(text, allowed_special = self.allowed_special)
+    def encode(self, text, add_special_tokens=True):
+        # If text already contains special tokens, don't double-add
+        return self.enc.encode(text, allowed_special=self.allowed_special)
+
+    def encode_pair(self, input_text, target_text):
+        """
+        Encodes input and target together: <|start|>input<|sep|>target<|end|>
+        """
+        text = f"<|start|>{input_text}<|sep|>{target_text}<|end|>"
+        return self.encode(text, add_special_tokens=False)
 
     def decode(self, tokens):
         return self.enc.decode(tokens)
