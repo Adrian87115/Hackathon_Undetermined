@@ -35,13 +35,16 @@ class CustomTokenizer:
                                      special_tokens = {**base_enc._special_tokens,
                                                        "<|start|>": 50257,
                                                        "<|end|>": 50258})
+        self.allowed_special = {"<|start|>", "<|end|>"}
 
-    def encode(self, text):
-        return self.enc.encode(text, allowed_special = set(self.enc._special_tokens.keys()))
+    def encode(self, text, add_special_tokens = True):
+        if add_special_tokens:
+            text = f"<|start|>{text}<|end|>"
+        return self.enc.encode(text, allowed_special = self.allowed_special)
 
     def decode(self, tokens):
         return self.enc.decode(tokens)
 
 def format_article(text):
     text = str(text).strip()
-    return (f"<|start>{text}<|end|>\n")
+    return (f"<|start|>{text}<|end|>\n")

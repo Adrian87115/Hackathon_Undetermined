@@ -6,7 +6,7 @@ import utils as u
 import dataloader as dl
 
 class ECOGPT():
-    def __init__(self, dataset_path = None, checkpoint = None, train_mode = True, batch_size = 16, total_batch_size = 128 * 16, sequence_length = 64, max_epochs = 20): # train_mode = False : not in training mode
+    def __init__(self, dataset_path = None, checkpoint = None, train_mode = True, batch_size = 16, total_batch_size = 128 * 16, sequence_length = 64): # train_mode = False : not in training mode
                                                                                                                                                                         # train_mode = True : training mode
         super(ECOGPT, self).__init__()
         assert torch.cuda.is_available(), "CUDA is not available"

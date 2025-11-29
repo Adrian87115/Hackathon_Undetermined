@@ -1,0 +1,3534 @@
+[
+    {
+        "original": "Could you please sign here",
+        "transformed": "Sign here."
+    },
+    {
+        "original": "Please remember the security code",
+        "transformed": "Remember the security code."
+    },
+    {
+        "original": "Can you hand me that file",
+        "transformed": "Hand me that file."
+    },
+    {
+        "original": "I would like to purchase this",
+        "transformed": "I want to purchase this."
+    },
+    {
+        "original": "Kindly turn off the monitor",
+        "transformed": "Turn off the monitor."
+    },
+    {
+        "original": "Could you explain the issue",
+        "transformed": "Explain the issue."
+    },
+    {
+        "original": "I am running late for the bus",
+        "transformed": "I am running late for the bus."
+    },
+    {
+        "original": "Please submit the forms by Friday",
+        "transformed": "Submit the forms by Friday."
+    },
+    {
+        "original": "I was hoping to ask a question",
+        "transformed": "Ask a question."
+    },
+    {
+        "original": "Can you confirm the total cost",
+        "transformed": "Confirm the total cost."
+    },
+    {
+        "original": "Please take a seat",
+        "transformed": "Take a seat."
+    },
+    {
+        "original": "Would you mind opening the window",
+        "transformed": "Open the window."
+    },
+    {
+        "original": "Thank you for your response",
+        "transformed": "Your response is noted."
+    },
+    {
+        "original": "I am unable to access the server",
+        "transformed": "I am unable to access the server."
+    },
+    {
+        "original": "Could you help me with this box",
+        "transformed": "Help me with this box."
+    },
+    {
+        "original": "Can you look over this memo",
+        "transformed": "Look over this memo."
+    },
+    {
+        "original": "I would be grateful for the data",
+        "transformed": "I need the data."
+    },
+    {
+        "original": "Please save the document first",
+        "transformed": "Save the document first."
+    },
+    {
+        "original": "Kindly prepare the presentation",
+        "transformed": "Prepare the presentation."
+    },
+    {
+        "original": "Can you reschedule the call",
+        "transformed": "Reschedule the call."
+    },
+    {
+        "original": "I think I will take a break now",
+        "transformed": "I will take a break now."
+    },
+    {
+        "original": "Please advise on the next steps",
+        "transformed": "Advise on the next steps."
+    },
+    {
+        "original": "Would you give me an estimate",
+        "transformed": "Give me an estimate."
+    },
+    {
+        "original": "Can you tell me the address",
+        "transformed": "Tell me the address."
+    },
+    {
+        "original": "I'm so sorry, I forgot the key",
+        "transformed": "I forgot the key."
+    },
+    {
+        "original": "Could you explain that concept one more time?",
+        "transformed": "Explain that concept one more time."
+    },
+    {
+        "original": "Please remember to sign the NDA",
+        "transformed": "Remember to sign the NDA."
+    },
+    {
+        "original": "Could you please shut the door.",
+        "transformed": "Shut the door."
+    },
+    {
+        "original": "Thanks for clarifying the steps.",
+        "transformed": ""
+    },
+    {
+        "original": "Can you share the document with me?",
+        "transformed": "Share the document with me."
+    },
+    {
+        "original": "I would be grateful if you could review this.",
+        "transformed": "Review this."
+    },
+    {
+        "original": "The server went offline.",
+        "transformed": "The server went offline."
+    },
+    {
+        "original": "Kindly send the minutes of the meeting.",
+        "transformed": "Send the minutes of the meeting."
+    },
+    {
+        "original": "Thanks to the new filter, the results are better.",
+        "transformed": "Thanks to the new filter, the results are better."
+    },
+    {
+        "original": "I was hoping you could fix this bug.",
+        "transformed": "Fix this bug."
+    },
+    {
+        "original": "Thank you for your assistance.",
+        "transformed": ""
+    },
+    {
+        "original": "Please note that the budget is final.",
+        "transformed": "The budget is final."
+    },
+    {
+        "original": "Can you confirm if the package left?",
+        "transformed": "Confirm if the package left."
+    },
+    {
+        "original": "Could you give me the sales figures now?",
+        "transformed": "Give me the sales figures now."
+    },
+    {
+        "original": "Please upload the file to the portal.",
+        "transformed": "Upload the file to the portal."
+    },
+    {
+        "original": "I'm sorry, I'm running late.",
+        "transformed": "I'm running late."
+    },
+    {
+        "original": "Thank you for your valuable input.",
+        "transformed": ""
+    },
+    {
+        "original": "Kindly hold the line for a moment.",
+        "transformed": "Hold the line for a moment."
+    },
+    {
+        "original": "Thanks for sending that over so quickly.",
+        "transformed": ""
+    },
+    {
+        "original": "Can you write a brief summary?",
+        "transformed": "Write a brief summary."
+    },
+    {
+        "original": "Please check your inbox for the link.",
+        "transformed": "Check your inbox for the link."
+    },
+    {
+        "original": "I would like to see the data table.",
+        "transformed": "I want to see the data table."
+    },
+    {
+        "original": "The deadline is tomorrow at 5 PM.",
+        "transformed": "The deadline is tomorrow at 5 PM."
+    },
+    {
+        "original": "Could you finalize the purchase order?",
+        "transformed": "Finalize the purchase order."
+    },
+    {
+        "original": "Thank you for your time.",
+        "transformed": ""
+    },
+    {
+        "original": "Please be advised the door is locked.",
+        "transformed": "The door is locked."
+    },
+    {
+        "original": "Could you please share the new guidelines with me.",
+        "transformed": "Share the new guidelines with me."
+    },
+    {
+        "original": "I would appreciate it if you could call me back.",
+        "transformed": "Call me back."
+    },
+    {
+        "original": "Thank you for providing the summary.",
+        "transformed": ""
+    },
+    {
+        "original": "Please remember to clock out before you leave.",
+        "transformed": "Remember to clock out before you leave."
+    },
+    {
+        "original": "Can you get me the file from the third drawer?",
+        "transformed": "Get me the file from the third drawer."
+    },
+    {
+        "original": "I was hoping to reschedule our meeting tomorrow.",
+        "transformed": "Reschedule our meeting tomorrow."
+    },
+    {
+        "original": "Kindly ensure the reports are printed.",
+        "transformed": "Ensure the reports are printed."
+    },
+    {
+        "original": "I am taking a day off next week.",
+        "transformed": "I am taking a day off next week."
+    },
+    {
+        "original": "Thanks to the update, everything is faster now.",
+        "transformed": "Thanks to the update, everything is faster now."
+    },
+    {
+        "original": "Could you give me an update on the budget?",
+        "transformed": "Give me an update on the budget."
+    },
+    {
+        "original": "Please note that the system will reboot at 3 AM.",
+        "transformed": "The system will reboot at 3 AM."
+    },
+    {
+        "original": "I would like to check the contract details.",
+        "transformed": "Check the contract details."
+    },
+    {
+        "original": "Thank you for your quick service.",
+        "transformed": ""
+    },
+    {
+        "original": "Can you look up the client's information?",
+        "transformed": "Look up the client's information."
+    },
+    {
+        "original": "Please confirm your availability for Friday.",
+        "transformed": "Confirm your availability for Friday."
+    },
+    {
+        "original": "I need to talk to the project manager.",
+        "transformed": "I need to talk to the project manager."
+    },
+    {
+        "original": "Would you be able to fax this form immediately?",
+        "transformed": "Fax this form immediately."
+    },
+    {
+        "original": "Kindly provide the receipt for your expenses.",
+        "transformed": "Provide the receipt for your expenses."
+    },
+    {
+        "original": "I apologize for the delay in my response.",
+        "transformed": "I am delayed in my response."
+    },
+    {
+        "original": "Thank you for clarifying the steps.",
+        "transformed": ""
+    },
+    {
+        "original": "Could you tell me the code for the lock box?",
+        "transformed": "Tell me the code for the lock box."
+    },
+    {
+        "original": "Please open a new ticket for this issue.",
+        "transformed": "Open a new ticket for this issue."
+    },
+    {
+        "original": "I was hoping to cancel the subscription.",
+        "transformed": "Cancel the subscription."
+    },
+    {
+        "original": "Can you send the attachment again, please?",
+        "transformed": "Send the attachment again."
+    },
+    {
+        "original": "Thanks for the heads-up about the change.",
+        "transformed": ""
+    },
+    {
+        "original": "Hello team. I am writing to ask about the server maintenance schedule for this weekend.\\n\\nCould you please confirm if the downtime is absolutely necessary? I would appreciate it if you could provide the exact start and end times for our external clients.",
+        "transformed": "Confirm the server maintenance schedule for this weekend.\\nIs the downtime absolutely necessary? Provide the exact start and end times for external clients."
+    },
+    {
+        "original": "I received your email just now. Thank you so much for putting together that detailed analysis",
+        "transformed": "it was exactly what we needed. I really appreciate your hard work.;"
+    },
+    {
+        "original": "I'm so sorry, but I won't be in the office until 10 AM due to a doctor's appointment. \\n\\nCould you kindly handle the client call scheduled for 9:30 AM? Thanks.",
+        "transformed": "I won't be in the office until 10 AM.\\nHandle the client call scheduled for 9:30 AM."
+    },
+    {
+        "original": "We found the error in the database. Thanks to your detailed log, we were able to fix it within an hour. I think the issue is resolved now.",
+        "transformed": "We found the error in the database. Thanks to your detailed log, we fixed it within an hour. The issue is resolved now."
+    },
+    {
+        "original": "I hope you are doing well today.\\n\\nI was hoping you could check the inventory levels for parts A and B. Also, would you be able to update the status column in the shared sheet? Please do this before lunch.",
+        "transformed": "Check the inventory levels for parts A and B.\\nUpdate the status column in the shared sheet before lunch."
+    },
+    {
+        "original": "I'll be at my desk. Let me know if you need anything from me before the final presentation. We are ready to go.",
+        "transformed": "I'll be at my desk. Let me know if you need anything from me before the final presentation. We are ready to go."
+    },
+    {
+        "original": "Good afternoon. I am following up on the request I sent yesterday regarding the vendor list.\\n\\nI would be grateful if you could provide that list by the end of the day. Thank you.",
+        "transformed": "Following up on the vendor list request from yesterday.\\nProvide that list by the end of the day."
+    },
+    {
+        "original": "Please be advised that the new security protocol will be in effect starting Monday morning. \\n\\nWe kindly request all employees review the attached document and ensure their passwords are changed by 8:00 AM. Thank you for your cooperation.",
+        "transformed": "The new security protocol is in effect starting Monday morning.\\nAll employees must review the attached document and change their passwords by 8:00 AM."
+    },
+    {
+        "original": "The next step is to run the QA tests on the staging environment. Once that is complete, we can push the changes live.",
+        "transformed": "The next step is to run the QA tests on the staging environment. Once that is complete, we can push the changes live."
+    },
+    {
+        "original": "I need the finalized marketing report by 3 PM today, otherwise we will miss the submission deadline. \\n\\nCould you please make sure it's uploaded to the shared folder? Thanks!",
+        "transformed": "I need the finalized marketing report by 3 PM today; otherwise we will miss the submission deadline. \\nMake sure it's uploaded to the shared folder."
+    },
+    {
+        "original": "I was hoping to obtain the quarterly sales data. Could you please send me the file before 5 PM today?",
+        "transformed": "Obtain the quarterly sales data. Send me the file before 5 PM today."
+    },
+    {
+        "original": "Thank you for your prompt reply to my message. I really appreciate the detailed breakdown you provided.",
+        "transformed": ""
+    },
+    {
+        "original": "Please be advised that the network will be temporarily unavailable for one hour starting at midnight.\\n\\nKindly save all your work before that time.",
+        "transformed": "The network will be temporarily unavailable for one hour starting at midnight.\\nSave all your work before that time."
+    },
+    {
+        "original": "Thanks to the new security update, our data is much safer. We can now proceed with the launch.",
+        "transformed": "Thanks to the new security update, our data is much safer. We can now proceed with the launch."
+    },
+    {
+        "original": "I'm so sorry, I can't find the folder. Would you mind showing me where it is located?",
+        "transformed": "I can't find the folder. Show me where it is located."
+    },
+    {
+        "original": "Good morning. I would like to request a vacation day for next Tuesday.\\n\\nCould you please approve this when you get a chance? Thanks.",
+        "transformed": "Request a vacation day for next Tuesday.\\nApprove this."
+    },
+    {
+        "original": "The project is delayed because the vendor did not deliver the parts on time.",
+        "transformed": "The project is delayed because the vendor did not deliver the parts on time."
+    },
+    {
+        "original": "I received the final contract yesterday. Thank you for handling all the negotiations so professionally.",
+        "transformed": ""
+    },
+    {
+        "original": "Can you look into the discrepancy in the expense report? I would appreciate a response by the end of the week.",
+        "transformed": "Look into the discrepancy in the expense report. Respond by the end of the week."
+    },
+    {
+        "original": "I was hoping you could check the status of the invoice, as it is overdue. Please let me know what the problem is.",
+        "transformed": "Check the status of the invoice, as it is overdue. Let me know what the problem is."
+    },
+    {
+        "original": "I was hoping to check the files we discussed last week. Could you please send me the link to the shared folder? I would be most grateful.",
+        "transformed": "Check the files we discussed last week. Send me the link to the shared folder."
+    },
+    {
+        "original": "Thank you for your assistance yesterday with the presentation. Your help was invaluable to the team.",
+        "transformed": ""
+    },
+    {
+        "original": "Please be aware that the meeting time has shifted to 11:30 AM. \\n\\nI would appreciate it if you could confirm your availability for this new time.",
+        "transformed": "The meeting time shifted to 11:30 AM. \\nConfirm your availability for this new time."
+    },
+    {
+        "original": "Thanks to the swift action by the IT team, the system is back online and running smoothly now.",
+        "transformed": "Thanks to the swift action by the IT team, the system is back online and running smoothly now."
+    },
+    {
+        "original": "I am unable to join the conference call due to a prior commitment. \\n\\nCould you kindly share the recording and meeting notes afterwards? Thanks.",
+        "transformed": "I am unable to join the conference call. \\nShare the recording and meeting notes afterwards."
+    },
+    {
+        "original": "Good morning. I would like to purchase the premium subscription for this software. Can you help me process this payment?",
+        "transformed": "I want to purchase the premium subscription for this software. Help me process this payment."
+    },
+    {
+        "original": "The server experienced an unexpected shutdown. We are currently investigating the cause and will provide an update in an hour.",
+        "transformed": "The server experienced an unexpected shutdown. We are currently investigating the cause and will provide an update in an hour."
+    },
+    {
+        "original": "We received the final sign-off from the legal department. Thank you for chasing them so many times to get this through.",
+        "transformed": ""
+    },
+    {
+        "original": "Would you mind reviewing the first two chapters of the proposal I attached? Please check for any formatting errors and send it back to me by the end of the day.",
+        "transformed": "Review the first two chapters of the attached proposal. Check for any formatting errors and send it back to me by the end of the day."
+    },
+    {
+        "original": "Please let me know if you received the shipment yesterday.\\n\\nI was hoping to confirm the inventory count today so we can close the manifest.",
+        "transformed": "Let me know if you received the shipment yesterday.\\nConfirm the inventory count today so we can close the manifest."
+    },
+    {
+        "original": "Could you please close the report now?",
+        "transformed": "Close the report now."
+    },
+    {
+        "original": "I would like the data from last quarter.",
+        "transformed": "I want the data from last quarter."
+    },
+    {
+        "original": "Thank you for your quick call.",
+        "transformed": ""
+    },
+    {
+        "original": "Please confirm the meeting room number.",
+        "transformed": "Confirm the meeting room number."
+    },
+    {
+        "original": "Can you hand in your badge on the way out?",
+        "transformed": "Hand in your badge on the way out."
+    },
+    {
+        "original": "I was hoping to ask you a brief question.",
+        "transformed": "Ask you a brief question."
+    },
+    {
+        "original": "Kindly forward the invoice to finance.",
+        "transformed": "Forward the invoice to finance."
+    },
+    {
+        "original": "Thanks to the new documentation, I understand it now.",
+        "transformed": "Thanks to the new documentation, I understand it now."
+    },
+    {
+        "original": "Could you give me the project code?",
+        "transformed": "Give me the project code."
+    },
+    {
+        "original": "I would be grateful if you sent the update.",
+        "transformed": "Send the update."
+    },
+    {
+        "original": "Thank you very much for your time today.",
+        "transformed": ""
+    },
+    {
+        "original": "Please make a backup of the drive.",
+        "transformed": "Make a backup of the drive."
+    },
+    {
+        "original": "I need to check the final calculations.",
+        "transformed": "I need to check the final calculations."
+    },
+    {
+        "original": "Can you tell me the wifi password?",
+        "transformed": "Tell me the wifi password."
+    },
+    {
+        "original": "I'm sorry, I forgot the deadline.",
+        "transformed": "I forgot the deadline."
+    },
+    {
+        "original": "Kindly print this document for me.",
+        "transformed": "Print this document for me."
+    },
+    {
+        "original": "Please be advised the door is locked at 6 PM.",
+        "transformed": "The door is locked at 6 PM."
+    },
+    {
+        "original": "Would you mind signing this document now?",
+        "transformed": "Sign this document now."
+    },
+    {
+        "original": "Thank you for the note.",
+        "transformed": ""
+    },
+    {
+        "original": "I was hoping to delay the submission date.",
+        "transformed": "Delay the submission date."
+    },
+    {
+        "original": "Could you please call the vendor back?",
+        "transformed": "Call the vendor back."
+    },
+    {
+        "original": "Please check the mailbox for the key.",
+        "transformed": "Check the mailbox for the key."
+    },
+    {
+        "original": "Can you help me move this server?",
+        "transformed": "Help me move this server."
+    },
+    {
+        "original": "Thanks to the fix, the app runs smoothly.",
+        "transformed": "Thanks to the fix, the app runs smoothly."
+    },
+    {
+        "original": "I would like to leave early today.",
+        "transformed": "I want to leave early today."
+    },
+    {
+        "original": "The system crashed again this morning",
+        "transformed": "The system crashed again this morning."
+    },
+    {
+        "original": "I need a new laptop immediately",
+        "transformed": "I need a new laptop immediately."
+    },
+    {
+        "original": "The deadline for the project is Friday",
+        "transformed": "The deadline for the project is Friday."
+    },
+    {
+        "original": "I am scheduled for a review at 2 PM",
+        "transformed": "I am scheduled for a review at 2 PM."
+    },
+    {
+        "original": "The office is closed on Monday for the holiday",
+        "transformed": "The office is closed on Monday for the holiday."
+    },
+    {
+        "original": "I am running a test on the live environment",
+        "transformed": "I am running a test on the live environment."
+    },
+    {
+        "original": "The file is corrupted and won't open",
+        "transformed": "The file is corrupted and won't open."
+    },
+    {
+        "original": "I have a conflict at 4:30 PM today",
+        "transformed": "I have a conflict at 4:30 PM today."
+    },
+    {
+        "original": "The client rejected the final design draft",
+        "transformed": "The client rejected the final design draft."
+    },
+    {
+        "original": "We are out of coffee in the break room",
+        "transformed": "We are out of coffee in the break room."
+    },
+    {
+        "original": "I started working on the documentation",
+        "transformed": "I started working on the documentation."
+    },
+    {
+        "original": "The password expired this morning",
+        "transformed": "The password expired this morning."
+    },
+    {
+        "original": "I will handle the deployment myself",
+        "transformed": "I will handle the deployment myself."
+    },
+    {
+        "original": "The server room temperature is too high",
+        "transformed": "The server room temperature is too high."
+    },
+    {
+        "original": "I checked the logs and found the issue",
+        "transformed": "I checked the logs and found the issue."
+    },
+    {
+        "original": "The invoice payment is overdue by two weeks",
+        "transformed": "The invoice payment is overdue by two weeks."
+    },
+    {
+        "original": "I am currently on another call",
+        "transformed": "I am currently on another call."
+    },
+    {
+        "original": "The marketing budget was approved yesterday",
+        "transformed": "The marketing budget was approved yesterday."
+    },
+    {
+        "original": "I found the error in the third line of code",
+        "transformed": "I found the error in the third line of code."
+    },
+    {
+        "original": "The new policy takes effect next week",
+        "transformed": "The new policy takes effect next week."
+    },
+    {
+        "original": "I need to update my personal information",
+        "transformed": "I need to update my personal information."
+    },
+    {
+        "original": "I will send the report before I leave",
+        "transformed": "I will send the report before I leave."
+    },
+    {
+        "original": "I am stuck in traffic right now",
+        "transformed": "I am stuck in traffic right now."
+    },
+    {
+        "original": "The power went out in the north wing",
+        "transformed": "The power went out in the north wing."
+    },
+    {
+        "original": "The meeting starts five minutes late",
+        "transformed": "The meeting starts five minutes late."
+    },
+    {
+        "original": "Please review this document now.",
+        "transformed": "Review this document now."
+    },
+    {
+        "original": "Could you send the minutes of the call?",
+        "transformed": "Send the minutes of the call."
+    },
+    {
+        "original": "I would appreciate it if you got the keys.",
+        "transformed": "Get the keys."
+    },
+    {
+        "original": "Kindly hold the door for the team.",
+        "transformed": "Hold the door for the team."
+    },
+    {
+        "original": "Thank you for your continued support.",
+        "transformed": ""
+    },
+    {
+        "original": "The system is down for maintenance.",
+        "transformed": "The system is down for maintenance."
+    },
+    {
+        "original": "Can you look at this bug report?",
+        "transformed": "Look at this bug report."
+    },
+    {
+        "original": "I was hoping to finalize the proposal.",
+        "transformed": "Finalize the proposal."
+    },
+    {
+        "original": "Please check the attachment.",
+        "transformed": "Check the attachment."
+    },
+    {
+        "original": "Would you mind sending the confirmation email?",
+        "transformed": "Send the confirmation email."
+    },
+    {
+        "original": "Thanks for the heads-up.",
+        "transformed": ""
+    },
+    {
+        "original": "I am out of the office until Tuesday.",
+        "transformed": "I am out of the office until Tuesday."
+    },
+    {
+        "original": "Could you confirm the address, please?",
+        "transformed": "Confirm the address."
+    },
+    {
+        "original": "I would like to see the new wireframe.",
+        "transformed": "I want to see the new wireframe."
+    },
+    {
+        "original": "Please return the equipment promptly.",
+        "transformed": "Return the equipment promptly."
+    },
+    {
+        "original": "Kindly provide your signature here.",
+        "transformed": "Provide your signature here."
+    },
+    {
+        "original": "The meeting was cancelled last minute.",
+        "transformed": "The meeting was cancelled last minute."
+    },
+    {
+        "original": "Can you bring your laptop to the meeting?",
+        "transformed": "Bring your laptop to the meeting."
+    },
+    {
+        "original": "Thank you, I'll take care of it.",
+        "transformed": ""
+    },
+    {
+        "original": "I need a quick status update.",
+        "transformed": "I need a quick status update."
+    },
+    {
+        "original": "Would you be able to check the inventory?",
+        "transformed": "Check the inventory."
+    },
+    {
+        "original": "Please forward this to the director.",
+        "transformed": "Forward this to the director."
+    },
+    {
+        "original": "I am waiting for the file to upload.",
+        "transformed": "I am waiting for the file to upload."
+    },
+    {
+        "original": "Could you explain the data breakdown?",
+        "transformed": "Explain the data breakdown."
+    },
+    {
+        "original": "I would like to move the deadline.",
+        "transformed": "I want to move the deadline."
+    },
+    {
+        "original": "ould you please sign here",
+        "transformed": "Sign here."
+    },
+    {
+        "original": "Please remember the security code",
+        "transformed": "Remember the security code."
+    },
+    {
+        "original": "Can you hand me that file",
+        "transformed": "Hand me that file."
+    },
+    {
+        "original": "I would like to purchase this",
+        "transformed": "I want to purchase this."
+    },
+    {
+        "original": "Kindly turn off the monitor",
+        "transformed": "Turn off the monitor."
+    },
+    {
+        "original": "Could you explain the issue",
+        "transformed": "Explain the issue."
+    },
+    {
+        "original": "I am running late for the bus",
+        "transformed": "I am running late for the bus."
+    },
+    {
+        "original": "Please submit the forms by Friday",
+        "transformed": "Submit the forms by Friday."
+    },
+    {
+        "original": "I was hoping to ask a question",
+        "transformed": "Ask a question."
+    },
+    {
+        "original": "Can you confirm the total cost",
+        "transformed": "Confirm the total cost."
+    },
+    {
+        "original": "Please take a seat",
+        "transformed": "Take a seat."
+    },
+    {
+        "original": "Would you mind opening the window",
+        "transformed": "Open the window."
+    },
+    {
+        "original": "I am unable to access the server",
+        "transformed": "I am unable to access the server."
+    },
+    {
+        "original": "Could you help me with this box",
+        "transformed": "Help me with this box."
+    },
+    {
+        "original": "Can you look over this memo",
+        "transformed": "Look over this memo."
+    },
+    {
+        "original": "I would be grateful for the data",
+        "transformed": "I need the data."
+    },
+    {
+        "original": "Please save the document first",
+        "transformed": "Save the document first."
+    },
+    {
+        "original": "Kindly prepare the presentation",
+        "transformed": "Prepare the presentation."
+    },
+    {
+        "original": "Can you reschedule the call",
+        "transformed": "Reschedule the call."
+    },
+    {
+        "original": "I think I will take a break now",
+        "transformed": "I will take a break now."
+    },
+    {
+        "original": "Please advise on the next steps",
+        "transformed": "Advise on the next steps."
+    },
+    {
+        "original": "Would you give me an estimate",
+        "transformed": "Give me an estimate."
+    },
+    {
+        "original": "Can you tell me the address",
+        "transformed": "Tell me the address."
+    },
+    {
+        "original": "I'm so sorry, I forgot the key",
+        "transformed": "I forgot the key."
+    },
+    {
+        "original": "Could you explain that concept one more time?",
+        "transformed": "Explain that concept one more time."
+    },
+    {
+        "original": "Please remember to sign the NDA",
+        "transformed": "Remember to sign the NDA."
+    },
+    {
+        "original": "Could you please shut the door.",
+        "transformed": "Shut the door."
+    },
+    {
+        "original": "Could you please confirm the deadline for the report?",
+        "transformed": "Confirm the deadline for the report."
+    },
+    {
+        "original": "I would like to reserve the conference room for Tuesday afternoon.",
+        "transformed": "I want to reserve the conference room for Tuesday afternoon."
+    },
+    {
+        "original": "Kindly attach the full data set to the email response.",
+        "transformed": "Attach the full data set to the email response."
+    },
+    {
+        "original": "Would you be able to check the printer cartridge level?",
+        "transformed": "Check the printer cartridge level."
+    },
+    {
+        "original": "I am running late, could you hold the phone call for five minutes?",
+        "transformed": "I am running late; hold the phone call for five minutes."
+    },
+    {
+        "original": "I was hoping to review the contract with you tomorrow.",
+        "transformed": "I want to review the contract with you tomorrow."
+    },
+    {
+        "original": "Could you please hand the client the information packet?",
+        "transformed": "Hand the client the information packet."
+    },
+    {
+        "original": "Please remember to sign out before leaving the building tonight.",
+        "transformed": "Remember to sign out before leaving the building tonight."
+    },
+    {
+        "original": "I would be grateful if you could share the project calendar with me.",
+        "transformed": "Share the project calendar with me."
+    },
+    {
+        "original": "Can you look at the system error message on my screen?",
+        "transformed": "Look at the system error message on my screen."
+    },
+    {
+        "original": "Please advise on the best way to handle this customer complaint.",
+        "transformed": "Advise on the best way to handle this customer complaint."
+    },
+    {
+        "original": "Kindly process the payment for the outstanding invoice.",
+        "transformed": "Process the payment for the outstanding invoice."
+    },
+    {
+        "original": "I am unable to access the documents in the shared folder.",
+        "transformed": "I am unable to access the documents in the shared folder."
+    },
+    {
+        "original": "Would you mind closing the door on your way out of the office?",
+        "transformed": "Close the door on your way out of the office."
+    },
+    {
+        "original": "Could you please finalize the vendor contract by 5 PM",
+        "transformed": "Finalize the vendor contract by 5 PM."
+    },
+    {
+        "original": "I would like to know the exact specifications of the new server model",
+        "transformed": "I want to know the exact specifications of the new server model."
+    },
+    {
+        "original": "Kindly provide an explanation for the delay in the delivery schedule",
+        "transformed": "Provide an explanation for the delay in the delivery schedule."
+    },
+    {
+        "original": "Please forward the updated presentation deck to the entire team",
+        "transformed": "Forward the updated presentation deck to the entire team."
+    },
+    {
+        "original": "I was hoping to call the client back before the end of the day",
+        "transformed": "I want to call the client back before the end of the day."
+    },
+    {
+        "original": "Can you confirm if the meeting minutes have been distributed yet",
+        "transformed": "Confirm if the meeting minutes have been distributed yet."
+    },
+    {
+        "original": "Would you mind shutting down the computer before you leave tonight",
+        "transformed": "Shut down the computer before you leave tonight."
+    },
+    {
+        "original": "I am unable to locate the necessary purchase order number",
+        "transformed": "I am unable to locate the necessary purchase order number."
+    },
+    {
+        "original": "Could you help me set up the projector for the conference",
+        "transformed": "Help me set up the projector for the conference."
+    },
+    {
+        "original": "Please check the documentation for instructions on the new process",
+        "transformed": "Check the documentation for instructions on the new process."
+    },
+    {
+        "original": "I would be grateful for the final decision on the budget allocation",
+        "transformed": "I need the final decision on the budget allocation."
+    },
+    {
+        "original": "Kindly prepare a timeline for the next phase of the project",
+        "transformed": "Prepare a timeline for the next phase of the project."
+    },
+    {
+        "original": "Can you reschedule the in-person review to next Wednesday",
+        "transformed": "Reschedule the in-person review to next Wednesday."
+    },
+    {
+        "original": "I think I will focus on coding the main feature this afternoon",
+        "transformed": "I will focus on coding the main feature this afternoon."
+    },
+    {
+        "original": "Please advise on how to proceed with the technical issue",
+        "transformed": "Advise on how to proceed with the technical issue."
+    },
+    {
+        "original": "Would you give me an exact count of the remaining inventory",
+        "transformed": "Give me an exact count of the remaining inventory."
+    },
+    {
+        "original": "Can you tell me the extension number for the HR department",
+        "transformed": "Tell me the extension number for the HR department."
+    },
+    {
+        "original": "I'm so sorry, I forgot to attach the necessary file",
+        "transformed": "I forgot to attach the necessary file."
+    },
+    {
+        "original": "Could you explain the system architecture in simpler terms",
+        "transformed": "Explain the system architecture in simpler terms."
+    },
+    {
+        "original": "Please remember to update your status on the Kanban board",
+        "transformed": "Remember to update your status on the Kanban board."
+    },
+    {
+        "original": "Please send the team an urgent notification about the system outage",
+        "transformed": ""
+    },
+    {
+        "original": "Could you please help me move this large stack of papers to the storage room",
+        "transformed": "Help me move this large stack of papers to the storage room."
+    },
+    {
+        "original": "I would like to request an extension on the current assignment",
+        "transformed": "I want to request an extension on the current assignment."
+    },
+    {
+        "original": "Kindly ensure that all security checks pass before deployment",
+        "transformed": "Ensure that all security checks pass before deployment."
+    },
+    {
+        "original": "Would you mind fetching the ladder from the utility closet",
+        "transformed": "Fetch the ladder from the utility closet."
+    },
+    {
+        "original": "Please be aware that the email server is undergoing maintenance",
+        "transformed": "Be aware that the email server is undergoing maintenance."
+    },
+    {
+        "original": "I was hoping you could help troubleshoot this firewall configuration",
+        "transformed": "Help troubleshoot this firewall configuration."
+    },
+    {
+        "original": "Can you please confirm the booking for the conference room B",
+        "transformed": "Confirm the booking for the conference room B."
+    },
+    {
+        "original": "I would like to propose a new schedule for the testing phase",
+        "transformed": "I want to propose a new schedule for the testing phase."
+    },
+    {
+        "original": "Could you kindly share your screen to demonstrate the new feature",
+        "transformed": "Share your screen to demonstrate the new feature."
+    },
+    {
+        "original": "Please confirm your attendance for the training session next week",
+        "transformed": "Confirm your attendance for the training session next week."
+    },
+    {
+        "original": "I need help accessing the external database from my current location",
+        "transformed": "I need help accessing the external database from my current location."
+    },
+    {
+        "original": "Would you mind taking detailed notes during the client presentation",
+        "transformed": "Take detailed notes during the client presentation."
+    },
+    {
+        "original": "I was hoping you could please send me the client feedback report",
+        "transformed": "Send me the client feedback report."
+    },
+    {
+        "original": "Kindly remind the department about the mandatory training session",
+        "transformed": "Remind the department about the mandatory training session."
+    },
+    {
+        "original": "The manager asked us to help him set up the new display",
+        "transformed": "The manager asked us to help him set up the new display."
+    },
+    {
+        "original": "I need someone to help us move the servers next week",
+        "transformed": "I need someone to help us move the servers next week."
+    },
+    {
+        "original": "Can you assist her with running the final financial analysis",
+        "transformed": "Assist her with running the final financial analysis."
+    },
+    {
+        "original": "Help me locate the archived data from Q2 last year",
+        "transformed": "Locate the archived data from Q2 last year."
+    },
+    {
+        "original": "We should support them in finalizing their presentation slides",
+        "transformed": "We should support them in finalizing their presentation slides."
+    },
+    {
+        "original": "Could you guide us through the updated installation process",
+        "transformed": "Guide us through the updated installation process."
+    },
+    {
+        "original": "I want you to brief him on the project's current risks and challenges",
+        "transformed": "I want you to brief him on the project's current risks and challenges."
+    },
+    {
+        "original": "The team needs you to cover for them during the maintenance window",
+        "transformed": "The team needs you to cover for them during the maintenance window."
+    },
+    {
+        "original": "I am asking you to walk her through the software registration steps",
+        "transformed": "I am asking you to walk her through the software registration steps."
+    },
+    {
+        "original": "Assist me by proofreading the first draft of the proposal",
+        "transformed": "Assist me by proofreading the first draft of the proposal."
+    },
+    {
+        "original": "Please show us how to properly calibrate the new equipment",
+        "transformed": "Show us how to properly calibrate the new equipment."
+    },
+    {
+        "original": "I need you to coordinate with them regarding the security audit schedule",
+        "transformed": "I need you to coordinate with them regarding the security audit schedule."
+    },
+    {
+        "original": "Could you train him on using the advanced features of the system",
+        "transformed": "Train him on using the advanced features of the system."
+    },
+    {
+        "original": "We must back her up during the negotiations with the vendor",
+        "transformed": "We must back her up during the negotiations with the vendor."
+    },
+    {
+        "original": "I was hoping you could support me during the upcoming client visit",
+        "transformed": "Support me during the upcoming client visit."
+    },
+    {
+        "original": "I need the report printed in full color before the board meeting",
+        "transformed": "I need the report printed in full color before the board meeting."
+    },
+    {
+        "original": "I plan to leave the office early tomorrow afternoon",
+        "transformed": "I plan to leave the office early tomorrow afternoon."
+    },
+    {
+        "original": "The security gate requires a new access code for entry",
+        "transformed": "The security gate requires a new access code for entry."
+    },
+    {
+        "original": "You must log out of the shared drive when finished with the documents",
+        "transformed": "You must log out of the shared drive when finished with the documents."
+    },
+    {
+        "original": "The IT department needs to install the patch immediately",
+        "transformed": "The IT department needs to install the patch immediately."
+    },
+    {
+        "original": "I want to schedule the quarterly review for the first week of March",
+        "transformed": "I want to schedule the quarterly review for the first week of March."
+    },
+    {
+        "original": "We must check the inventory levels twice before placing the order",
+        "transformed": "We must check the inventory levels twice before placing the order."
+    },
+    {
+        "original": "The supervisor must approve all overtime hours in advance",
+        "transformed": "The supervisor must approve all overtime hours in advance."
+    },
+    {
+        "original": "I need to update the contact list for the entire sales team",
+        "transformed": "I need to update the contact list for the entire sales team."
+    },
+    {
+        "original": "I plan to take the next flight out to meet the overseas partners",
+        "transformed": "I plan to take the next flight out to meet the overseas partners."
+    },
+    {
+        "original": "The lights in the hallway are flickering and need maintenance",
+        "transformed": "The lights in the hallway are flickering and need maintenance."
+    },
+    {
+        "original": "Send the signed confidentiality agreement to legal counsel today",
+        "transformed": "Send the signed confidentiality agreement to legal counsel today."
+    },
+    {
+        "original": "I want to transfer the project ownership to the newly formed team",
+        "transformed": "I want to transfer the project ownership to the newly formed team."
+    },
+    {
+        "original": "You need to complete the mandatory training module by Friday",
+        "transformed": "You need to complete the mandatory training module by Friday."
+    },
+    {
+        "original": "I must finalize the expense report details before submitting it",
+        "transformed": "I must finalize the expense report details before submitting it."
+    },
+    {
+        "original": "Could you please share the finalized report with the marketing team by noon? \\n\\nPlease remind them that the data should not be distributed externally yet",
+        "transformed": "Share the finalized report with the marketing team by noon. Remind them that the data should not be distributed externally yet."
+    },
+    {
+        "original": "I am writing to update you on the vendor selection process. \\n\\nI would like to move forward with Vendor B, as their proposal was much more cost-effective",
+        "transformed": "I am writing to update you on the vendor selection process. I want to move forward with Vendor B, as their proposal was much more cost-effective."
+    },
+    {
+        "original": "Kindly submit your expense reports for last month before the Friday deadline. \\n\\nWould you mind double-checking all the attached receipts for completeness",
+        "transformed": "Submit your expense reports for last month before the Friday deadline. Double-check all the attached receipts for completeness."
+    },
+    {
+        "original": "The system is still crashing every time we access the user database. \\n\\nI need help coordinating with them (the engineers) to diagnose the root cause immediately",
+        "transformed": "The system is still crashing every time we access the user database. I need help coordinating with them (the engineers) to diagnose the root cause immediately."
+    },
+    {
+        "original": "Could you please review the legal jargon in the third paragraph of the contract? \\n\\nI plan to call the client at 4 PM to finalize the wording",
+        "transformed": "Review the legal jargon in the third paragraph of the contract. I plan to call the client at 4 PM to finalize the wording."
+    },
+    {
+        "original": "I was hoping you could check the inventory for parts A and C one more time. \\n\\nWe need those figures to send to the manufacturing plant by the end of the day",
+        "transformed": "Check the inventory for parts A and C one more time. We need those figures to send to the manufacturing plant by the end of the day."
+    },
+    {
+        "original": "Would you mind escalating this ticket to a Tier 2 technician? \\n\\nThe current issue is blocking us from pushing the latest code release to staging",
+        "transformed": "Escalate this ticket to a Tier 2 technician. The current issue is blocking us from pushing the latest code release to staging."
+    },
+    {
+        "original": "I will be out of the office on personal leave for the next three days. \\n\\nPlease direct all urgent inquiries to my assistant, Sarah, in my absence",
+        "transformed": "I will be out of the office on personal leave for the next three days. Direct all urgent inquiries to my assistant, Sarah, in my absence."
+    },
+    {
+        "original": "I would be grateful if you could assist him with setting up his new remote access token. \\n\\nHe is blocked until he can connect to the internal network resources",
+        "transformed": "Assist him with setting up his new remote access token. He is blocked until he can connect to the internal network resources."
+    },
+    {
+        "original": "Please confirm the total number of participants registered for the webinar. \\n\\nWe need to ensure the hosting platform can accommodate all of them without performance issues",
+        "transformed": "Confirm the total number of participants registered for the webinar. We need to ensure the hosting platform can accommodate all of them without performance issues."
+    },
+    {
+        "original": "I need the updated financial projection model from the finance department. \\n\\nKindly ensure that the Q4 earnings are correctly calculated in the final column",
+        "transformed": "I need the updated financial projection model from the finance department. Ensure that the Q4 earnings are correctly calculated in the final column."
+    },
+    {
+        "original": "Can you please confirm the travel dates for the San Diego conference next month? \\n\\nI would like to book the flight tickets before the prices increase further",
+        "transformed": "Confirm the travel dates for the San Diego conference next month. I want to book the flight tickets before the prices increase further."
+    },
+    {
+        "original": "The budget proposal for the new initiative is due tomorrow morning. \\n\\nWould you mind giving me your final sign-off on the document before 6 PM today",
+        "transformed": "The budget proposal for the new initiative is due tomorrow morning. Give me your final sign-off on the document before 6 PM today."
+    },
+    {
+        "original": "I was hoping you could help her locate the original source files for the image assets. \\n\\nShe needs them to prepare the high-resolution print marketing materials",
+        "transformed": "Help her locate the original source files for the image assets. She needs them to prepare the high-resolution print marketing materials."
+    },
+    {
+        "original": "Please remember that the office holiday party requires RSVP confirmation by the end of the week. \\n\\nCould you please circulate one final reminder email to the entire staff",
+        "transformed": "Remember that the office holiday party requires RSVP confirmation by the end of the week. Circulate one final reminder email to the entire staff."
+    },
+    {
+        "original": "I would like to know the status of the firewall migration project. \\n\\nCan you kindly give me an update on the progress, in case you need more resources to complete it",
+        "transformed": "I want to know the status of the firewall migration project. Give me an update on the progress, in case you need more resources to complete it."
+    },
+    {
+        "original": "Please remember that all visitor parking permits must be renewed by the end of the month. \\n\\nWould you mind sending a reminder to us in the administration office to collect the necessary forms",
+        "transformed": "Remember that all visitor parking permits must be renewed by the end of the month. Send a reminder to us in the administration office to collect the necessary forms."
+    },
+    {
+        "original": "I am running late for the 10 AM client meeting. \\n\\nCould you please hand him (Mr. Smith) the contract and tell him I will join within ten minutes",
+        "transformed": "I am running late for the 10 AM client meeting. Hand him (Mr. Smith) the contract and tell him I will join within ten minutes."
+    },
+    {
+        "original": "The server room temperature is alarmingly high, and the alert system is offline. \\n\\nI need help calling the external HVAC maintenance crew immediately",
+        "transformed": "The server room temperature is alarmingly high, and the alert system is offline. I need help calling the external HVAC maintenance crew immediately."
+    },
+    {
+        "original": "I would be grateful if you could confirm the exact time the power outage is scheduled. \\n\\nIn case you need more information about the impact, I have a list of affected systems",
+        "transformed": "Confirm the exact time the power outage is scheduled. I have a list of affected systems in case you need more information about the impact."
+    },
+    {
+        "original": "Kindly check the attendance records for the last team training session. \\n\\nI want to see the list of people who missed it so I can reschedule their training",
+        "transformed": "Check the attendance records for the last team training session. I want to see the list of people who missed it so I can reschedule their training."
+    },
+    {
+        "original": "Hello. I was hoping you could assist her with the document encryption software. \\n\\nShe is having trouble installing it on her new workstation",
+        "transformed": "Assist her with the document encryption software. She is having trouble installing it on her new workstation."
+    },
+    {
+        "original": "Can you please summarize the key takeaways from the shareholder meeting? \\n\\nI need this summary by the end of the day, in case I miss the final email update",
+        "transformed": "Summarize the key takeaways from the shareholder meeting. I need this summary by the end of the day, in case I miss the final email update."
+    },
+    {
+        "original": "Please could you print this document for me",
+        "transformed": "Print this document."
+    },
+    {
+        "original": "I would like to inquire about the server status",
+        "transformed": "Check the server status."
+    },
+    {
+        "original": "Kindly make sure the lights are off before leaving",
+        "transformed": "Turn off the lights before leaving."
+    },
+    {
+        "original": "Could you possibly provide the list of attendees",
+        "transformed": "Provide the list of attendees."
+    },
+    {
+        "original": "I am reaching out to ask for your help with the setup",
+        "transformed": "Help with the setup."
+    },
+    {
+        "original": "Please be so kind as to check the shipment tracking",
+        "transformed": "Check the shipment tracking."
+    },
+    {
+        "original": "Would you mind reviewing the notes from yesterday",
+        "transformed": "Review the notes from yesterday."
+    },
+    {
+        "original": "I hope you don’t mind me asking, can you send the report",
+        "transformed": "Send the report."
+    },
+    {
+        "original": "Please be aware that the meeting will start shortly",
+        "transformed": "The meeting starts shortly."
+    },
+    {
+        "original": "I was wondering if you could confirm the reservation",
+        "transformed": "Confirm the reservation."
+    },
+    {
+        "original": "I would appreciate it if you could update the dashboard",
+        "transformed": "Update the dashboard."
+    },
+    {
+        "original": "Could you be so kind as to explain the process again",
+        "transformed": "Explain the process again."
+    },
+    {
+        "original": "I am writing to request your approval for the purchase",
+        "transformed": "Request approval for the purchase."
+    },
+    {
+        "original": "Would you be so kind as to turn down the volume",
+        "transformed": "Turn down the volume."
+    },
+    {
+        "original": "I would like to ask if you could forward me the invoice",
+        "transformed": "Forward the invoice."
+    },
+    {
+        "original": "Please do not forget to back up your files",
+        "transformed": "Back up your files."
+    },
+    {
+        "original": "I hope it’s not too much trouble, can you reset the password",
+        "transformed": "Reset the password."
+    },
+    {
+        "original": "Could you, if possible, look into the network latency",
+        "transformed": "Look into the network latency."
+    },
+    {
+        "original": "I am just checking in to see if you received the forms",
+        "transformed": "Check if you received the forms."
+    },
+    {
+        "original": "I was hoping you might be able to schedule the meeting",
+        "transformed": "Schedule the meeting."
+    },
+    {
+        "original": "Hello, could you send me the report",
+        "transformed": "Send me the report."
+    },
+    {
+        "original": "Hi, please check the server status",
+        "transformed": "Check the server status."
+    },
+    {
+        "original": "Sure, I can take a look at this",
+        "transformed": "Take a look at this."
+    },
+    {
+        "original": "Got it, I will handle the deployment",
+        "transformed": "Handle the deployment."
+    },
+    {
+        "original": "Hey, would you mind forwarding the email",
+        "transformed": "Forward the email."
+    },
+    {
+        "original": "Hi there, please review the budget",
+        "transformed": "Review the budget."
+    },
+    {
+        "original": "Hello team, I need the latest figures",
+        "transformed": "Get the latest figures."
+    },
+    {
+        "original": "Sure thing, I will update the dashboard",
+        "transformed": "Update the dashboard."
+    },
+    {
+        "original": "Hey, can you confirm the meeting time",
+        "transformed": "Confirm the meeting time."
+    },
+    {
+        "original": "Hi, could you help me with the printer",
+        "transformed": "Help with the printer."
+    },
+    {
+        "original": "Hello, I was hoping you could finalize the contract",
+        "transformed": "Finalize the contract."
+    },
+    {
+        "original": "Got it, I’ll send the files over",
+        "transformed": "Send the files over."
+    },
+    {
+        "original": "Hi all, please prepare the slides",
+        "transformed": "Prepare the slides."
+    },
+    {
+        "original": "Hey, would you review the design draft",
+        "transformed": "Review the design draft."
+    },
+    {
+        "original": "Hello, I just wanted to check on the inventory",
+        "transformed": "Check the inventory."
+    },
+    {
+        "original": "Hello",
+        "transformed": ""
+    },
+    {
+        "original": "Hi",
+        "transformed": ""
+    },
+    {
+        "original": "Hey",
+        "transformed": ""
+    },
+    {
+        "original": "Hi there",
+        "transformed": ""
+    },
+    {
+        "original": "Thanks",
+        "transformed": ""
+    },
+    {
+        "original": "Hello Mr. Smith, could you please review the attached financial summary and provide your feedback by 5 PM",
+        "transformed": "Review the attached financial summary and provide feedback by 5 PM."
+    },
+    {
+        "original": "Hi team, I was hoping you could finalize the slides for the quarterly presentation before tomorrow",
+        "transformed": "Finalize the slides for the quarterly presentation before tomorrow."
+    },
+    {
+        "original": "Dear all, please be informed that the server will undergo maintenance tonight from 11 PM to 1 AM",
+        "transformed": "The server will undergo maintenance tonight from 11 PM to 1 AM."
+    },
+    {
+        "original": "Good morning, I would like to request an update on the status of the client onboarding process",
+        "transformed": "Request an update on the status of the client onboarding process."
+    },
+    {
+        "original": "Hello everyone, kindly ensure that all expense reports are submitted to finance by end of day",
+        "transformed": "Ensure all expense reports are submitted to finance by end of day."
+    },
+    {
+        "original": "Hi there, I was wondering if you could check the inventory levels for items A, B, and C before lunch",
+        "transformed": "Check inventory levels for items A, B, and C before lunch."
+    },
+    {
+        "original": "Dear Ms. Johnson, please confirm the booking for the conference room B for next Wednesday",
+        "transformed": "Confirm the booking for the conference room B for next Wednesday."
+    },
+    {
+        "original": "Hello, I would appreciate it if you could provide a detailed breakdown of the Q3 sales figures",
+        "transformed": "Provide a detailed breakdown of the Q3 sales figures."
+    },
+    {
+        "original": "Hi all, please review the latest project plan and highlight any risks you foresee",
+        "transformed": "Review the latest project plan and highlight any risks."
+    },
+    {
+        "original": "Good afternoon, I was hoping you could update the shared dashboard with the latest performance metrics",
+        "transformed": "Update the shared dashboard with the latest performance metrics."
+    },
+    {
+        "original": "Hello team, please make sure the client receives the final proposal by end of day today",
+        "transformed": "Ensure the client receives the final proposal by end of day."
+    },
+    {
+        "original": "Hi, I wanted to ask if you could run the QA tests on the staging environment before pushing to production",
+        "transformed": "Run QA tests on the staging environment before pushing to production."
+    },
+    {
+        "original": "Dear colleagues, please be reminded that the monthly budget meeting is scheduled for 3 PM",
+        "transformed": "The monthly budget meeting is scheduled for 3 PM."
+    },
+    {
+        "original": "Hello, I would like to request that the new security protocols are applied to all servers by Friday",
+        "transformed": "Apply the new security protocols to all servers by Friday."
+    },
+    {
+        "original": "Hello Mr. Lee, could you please provide the updated project timeline for review by tomorrow",
+        "transformed": "Provide the updated project timeline for review by tomorrow."
+    },
+    {
+        "original": "Hi team, I was hoping you could compile the client feedback from the past week into a single report",
+        "transformed": "Compile the client feedback from the past week into a single report."
+    },
+    {
+        "original": "Dear all, please be informed that the network maintenance will take place from 10 PM to 2 AM tonight",
+        "transformed": "The network maintenance will take place from 10 PM to 2 AM tonight."
+    },
+    {
+        "original": "Good morning, I would like to request the latest figures on the marketing campaign performance",
+        "transformed": "Request the latest figures on the marketing campaign performance."
+    },
+    {
+        "original": "Hello everyone, kindly ensure that all presentation slides are finalized before the end of the day",
+        "transformed": "Ensure all presentation slides are finalized before the end of the day."
+    },
+    {
+        "original": "Hi there, I was wondering if you could verify the shipment details for order #4521 and update the log",
+        "transformed": "Verify the shipment details for order #4521 and update the log."
+    },
+    {
+        "original": "Dear Ms. Patel, please confirm that the conference room is available for the client meeting next Friday",
+        "transformed": "Confirm that the conference room is available for the client meeting next Friday."
+    },
+    {
+        "original": "Hello, I would appreciate it if you could summarize the quarterly financial report and highlight key variances",
+        "transformed": "Summarize the quarterly financial report and highlight key variances."
+    },
+    {
+        "original": "Hi all, please review the draft contract and identify any sections that require legal review",
+        "transformed": "Review the draft contract and identify sections that require legal review."
+    },
+    {
+        "original": "Good afternoon, I was hoping you could update the project dashboard with the latest resource allocations",
+        "transformed": "Update the project dashboard with the latest resource allocations."
+    },
+    {
+        "original": "Hello team, please make sure the client receives the revised proposal by close of business today",
+        "transformed": "Ensure the client receives the revised proposal by close of business today."
+    },
+    {
+        "original": "Hi, I wanted to ask if you could perform the system backup before the end of the day",
+        "transformed": "Perform the system backup before the end of the day."
+    },
+    {
+        "original": "Dear colleagues, please be reminded that the department meeting is scheduled for 2 PM",
+        "transformed": "The department meeting is scheduled for 2 PM."
+    },
+    {
+        "original": "Hello, I would like to request that the new software update is installed on all workstations by Friday",
+        "transformed": "Install the new software update on all workstations by Friday."
+    },
+    {
+        "original": "Hi team, please review the vendor contracts and flag any clauses that need attention",
+        "transformed": "Review the vendor contracts and flag any clauses that need attention."
+    },
+    {
+        "original": "Hello Mr. Green, could you prepare a summary of the client’s requirements and send it to the design team",
+        "transformed": "Prepare a summary of the client’s requirements and send it to the design team."
+    },
+    {
+        "original": "Hi, I was hoping you could run the monthly performance report and share the results with management",
+        "transformed": "Run the monthly performance report and share the results with management."
+    },
+    {
+        "original": "Dear all, please ensure that all pending invoices are submitted to accounting before the end of the week",
+        "transformed": "Ensure all pending invoices are submitted to accounting before the end of the week."
+    },
+    {
+        "original": "Hello, I would like to request a review of the draft marketing plan and provide comments by Tuesday",
+        "transformed": "Review the draft marketing plan and provide comments by Tuesday."
+    },
+    {
+        "original": "Hi team, please update the shared calendar with all upcoming project deadlines",
+        "transformed": "Update the shared calendar with all upcoming project deadlines."
+    },
+    {
+        "original": "Hi, can you tell me the weather today",
+        "transformed": "Tell me the weather today."
+    },
+    {
+        "original": "Hello, I want to know my account balance",
+        "transformed": "Know my account balance."
+    },
+    {
+        "original": "Hey, could you set a reminder for 3 PM",
+        "transformed": "Set a reminder for 3 PM."
+    },
+    {
+        "original": "Hi, can you show me the latest news",
+        "transformed": "Show the latest news."
+    },
+    {
+        "original": "Hello, I would like to book a table for two",
+        "transformed": "Book a table for two."
+    },
+    {
+        "original": "Hey, can you play some music",
+        "transformed": "Play some music."
+    },
+    {
+        "original": "Hi, I want to check my email",
+        "transformed": "Check my email."
+    },
+    {
+        "original": "Hello, could you find nearby coffee shops",
+        "transformed": "Find nearby coffee shops."
+    },
+    {
+        "original": "Hey, I want to track my package",
+        "transformed": "Track my package."
+    },
+    {
+        "original": "Hi, can you tell me a joke",
+        "transformed": "Tell me a joke."
+    },
+    {
+        "original": "Hello, I need help with my password",
+        "transformed": "Help with my password."
+    },
+    {
+        "original": "Hey, can you translate this sentence to Spanish",
+        "transformed": "Translate this sentence to Spanish."
+    },
+    {
+        "original": "Hi, I want to see today’s calendar",
+        "transformed": "See today’s calendar."
+    },
+    {
+        "original": "Hello, could you start a timer for 20 minutes",
+        "transformed": "Start a timer for 20 minutes."
+    },
+    {
+        "original": "Hey, can you check the traffic to work",
+        "transformed": "Check the traffic to work."
+    },
+    {
+        "original": "Hi, I want to find the nearest gas station",
+        "transformed": "Find the nearest gas station."
+    },
+    {
+        "original": "Hello, could you add milk to my shopping list",
+        "transformed": "Add milk to my shopping list."
+    },
+    {
+        "original": "Hey, I want to know the top trending movies",
+        "transformed": "Know the top trending movies."
+    },
+    {
+        "original": "Hi, can you give me directions to the airport",
+        "transformed": "Give me directions to the airport."
+    },
+    {
+        "original": "Hello, I need to set an alarm for 6 AM",
+        "transformed": "Set an alarm for 6 AM."
+    },
+    {
+        "original": "Good morning",
+        "transformed": ""
+    },
+    {
+        "original": "Good afternoon",
+        "transformed": ""
+    },
+    {
+        "original": "Hello, can you check my schedule for tomorrow",
+        "transformed": "Check my schedule for tomorrow."
+    },
+    {
+        "original": "Hi, I want to set a reminder for my meeting",
+        "transformed": "Set a reminder for my meeting."
+    },
+    {
+        "original": "Hey, can you tell me the latest sports scores",
+        "transformed": "Tell me the latest sports scores."
+    },
+    {
+        "original": "Hello, I want to add an event to my calendar",
+        "transformed": "Add an event to my calendar."
+    },
+    {
+        "original": "Hi, can you convert 50 dollars to euros",
+        "transformed": "Convert 50 dollars to euros."
+    },
+    {
+        "original": "Hey, I need the current temperature in Paris",
+        "transformed": "Get the current temperature in Paris."
+    },
+    {
+        "original": "Hello, could you suggest a good restaurant nearby",
+        "transformed": "Suggest a good restaurant nearby."
+    },
+    {
+        "original": "Hi, I want to check my notifications",
+        "transformed": "Check my notifications."
+    },
+    {
+        "original": "Hey, can you show me my recent messages",
+        "transformed": "Show my recent messages."
+    },
+    {
+        "original": "Hello, I want to create a new note",
+        "transformed": "Create a new note."
+    },
+    {
+        "original": "Hi, can you remind me to call John at 5 PM",
+        "transformed": "Remind me to call John at 5 PM."
+    },
+    {
+        "original": "Hey, I want to check my step count today",
+        "transformed": "Check my step count today."
+    },
+    {
+        "original": "Hello, can you give me a random fact",
+        "transformed": "Give me a random fact."
+    },
+    {
+        "original": "Hi, I want to see the sunrise time for tomorrow",
+        "transformed": "See the sunrise time for tomorrow."
+    },
+    {
+        "original": "Hey, can you set the volume to 50%",
+        "transformed": "Set the volume to 50%."
+    },
+    {
+        "original": "Hello, I want to see my upcoming appointments",
+        "transformed": "See my upcoming appointments."
+    },
+    {
+        "original": "Hi, can you suggest a workout routine for beginners",
+        "transformed": "Suggest a workout routine for beginners."
+    },
+    {
+        "original": "Hey, I want to know the exchange rate for USD to GBP",
+        "transformed": "Know the exchange rate for USD to GBP."
+    },
+    {
+        "original": "Hello, can you add eggs to my grocery list",
+        "transformed": "Add eggs to my grocery list."
+    },
+    {
+        "original": "Hi, I want to check the battery status of my devices",
+        "transformed": "Check the battery status of my devices."
+    },
+    {
+        "original": "Hey, can you tell me how far it is to downtown",
+        "transformed": "Tell me the distance to downtown."
+    },
+    {
+        "original": "Hello, I want to start a 10-minute meditation",
+        "transformed": "Start a 10-minute meditation."
+    },
+    {
+        "original": "Hi, can you recommend a movie to watch tonight",
+        "transformed": "Recommend a movie to watch tonight."
+    },
+    {
+        "original": "Hey, I want to see the latest tech news",
+        "transformed": "See the latest tech news."
+    },
+    {
+        "original": "Hello, can you calculate 235 times 47",
+        "transformed": "Calculate 235 times 47."
+    },
+    {
+        "original": "Hi, I want to check my internet speed",
+        "transformed": "Check my internet speed."
+    },
+    {
+        "original": "Hello, can you set a timer for 15 minutes",
+        "transformed": "Set a timer for 15 minutes."
+    },
+    {
+        "original": "Hi, I want to check the weather forecast for tomorrow",
+        "transformed": "Check the weather forecast for tomorrow."
+    },
+    {
+        "original": "Hey, can you find nearby parking spots",
+        "transformed": "Find nearby parking spots."
+    },
+    {
+        "original": "Hello, I want to see my recent call history",
+        "transformed": "See my recent call history."
+    },
+    {
+        "original": "Hi, can you translate “good morning” to French",
+        "transformed": "Translate “good morning” to French."
+    },
+    {
+        "original": "Hey, I want to search for Italian restaurants",
+        "transformed": "Search for Italian restaurants."
+    },
+    {
+        "original": "Hello, can you tell me the latest stock prices",
+        "transformed": "Tell me the latest stock prices."
+    },
+    {
+        "original": "Hi, I want to check the traffic to the airport",
+        "transformed": "Check the traffic to the airport."
+    },
+    {
+        "original": "Hey, can you add “bread” to my shopping list",
+        "transformed": "Add “bread” to my shopping list."
+    },
+    {
+        "original": "Hello, I want to start a 5-minute breathing exercise",
+        "transformed": "Start a 5-minute breathing exercise."
+    },
+    {
+        "original": "Hi, can you tell me the current time in Tokyo",
+        "transformed": "Get the current time in Tokyo."
+    },
+    {
+        "original": "Hey, I want to check my unread emails",
+        "transformed": "Check my unread emails."
+    },
+    {
+        "original": "Hello, can you show me nearby gas stations",
+        "transformed": "Show nearby gas stations."
+    },
+    {
+        "original": "Hi, I want to track my package status",
+        "transformed": "Track my package status."
+    },
+    {
+        "original": "Hey, can you create a reminder for my dentist appointment",
+        "transformed": "Create a reminder for my dentist appointment."
+    },
+    {
+        "original": "Hello, I want to find a nearby pharmacy",
+        "transformed": "Find a nearby pharmacy."
+    },
+    {
+        "original": "Hi, can you calculate 1,250 divided by 25",
+        "transformed": "Calculate 1,250 divided by 25."
+    },
+    {
+        "original": "Hey, I want to check today’s weather",
+        "transformed": "Check today’s weather."
+    },
+    {
+        "original": "Hello, can you show me trending YouTube videos",
+        "transformed": "Show trending YouTube videos."
+    },
+    {
+        "original": "Hi, I want to check the next bus arrival time",
+        "transformed": "Check the next bus arrival time."
+    },
+    {
+        "original": "Hey, can you find a recipe for chocolate cake",
+        "transformed": "Find a recipe for chocolate cake."
+    },
+    {
+        "original": "Hello, I want to see my remaining data usage",
+        "transformed": "See my remaining data usage."
+    },
+    {
+        "original": "Hi, can you play a relaxing playlist",
+        "transformed": "Play a relaxing playlist."
+    },
+    {
+        "original": "Hey, I want to check my bank account transactions",
+        "transformed": "Check my bank account transactions."
+    },
+    {
+        "original": "Hello, can you tell me how long it takes to get to the city center",
+        "transformed": "Tell me the travel time to the city center."
+    },
+    {
+        "original": "Hi, I want to add “meeting notes” to my notes app",
+        "transformed": "Add “meeting notes” to my notes app."
+    },
+    {
+        "original": "Hey, remind me about my 3 PM meeting",
+        "transformed": "Remind me about my 3 PM meeting."
+    },
+    {
+        "original": "Set a timer for 10 minutes",
+        "transformed": "Set a timer for 10 minutes."
+    },
+    {
+        "original": "I need the weather in New York today",
+        "transformed": "Get the weather in New York today."
+    },
+    {
+        "original": "Show me the top news headlines",
+        "transformed": "Show the top news headlines."
+    },
+    {
+        "original": "Add milk and eggs to my shopping list",
+        "transformed": "Add milk and eggs to my shopping list."
+    },
+    {
+        "original": "How long will it take to drive to the airport",
+        "transformed": "Tell me the driving time to the airport."
+    },
+    {
+        "original": "Translate “hello” to German",
+        "transformed": "Translate “hello” to German."
+    },
+    {
+        "original": "Find coffee shops near me",
+        "transformed": "Find coffee shops near me."
+    },
+    {
+        "original": "Check my unread messages",
+        "transformed": "Check my unread messages."
+    },
+    {
+        "original": "Play relaxing music",
+        "transformed": "Play relaxing music."
+    },
+    {
+        "original": "When is sunrise tomorrow",
+        "transformed": "Show the sunrise time tomorrow."
+    },
+    {
+        "original": "What’s my next appointment",
+        "transformed": "Show my next appointment."
+    },
+    {
+        "original": "Track my package with tracking number 12345",
+        "transformed": "Track package number 12345."
+    },
+    {
+        "original": "Give me today’s stock updates",
+        "transformed": "Give today’s stock updates."
+    },
+    {
+        "original": "Start a 5-minute meditation session",
+        "transformed": "Start a 5-minute meditation session."
+    },
+    {
+        "original": "Show nearby gas stations",
+        "transformed": "Show nearby gas stations."
+    },
+    {
+        "original": "I want to see my calendar for tomorrow",
+        "transformed": "See my calendar for tomorrow."
+    },
+    {
+        "original": "Calculate 256 times 34",
+        "transformed": "Calculate 256 times 34."
+    },
+    {
+        "original": "Add a reminder to call John at 4 PM",
+        "transformed": "Add reminder to call John at 4 PM."
+    },
+    {
+        "original": "Check traffic conditions to downtown",
+        "transformed": "Check traffic to downtown."
+    },
+    {
+        "original": "Search for nearby Italian restaurants",
+        "transformed": "Search for nearby Italian restaurants."
+    },
+    {
+        "original": "Set an alarm for 6:30 AM",
+        "transformed": "Set an alarm for 6:30 AM."
+    },
+    {
+        "original": "Show trending YouTube videos",
+        "transformed": "Show trending YouTube videos."
+    },
+    {
+        "original": "How’s the battery on my phone",
+        "transformed": "Check my phone’s battery level."
+    },
+    {
+        "original": "What’s the exchange rate for USD to EUR",
+        "transformed": "Get the exchange rate for USD to EUR."
+    },
+    {
+        "original": "I want a random fact",
+        "transformed": "Tell me a random fact."
+    },
+    {
+        "original": "Hey, can you check my calendar and tell me what appointments I have tomorrow",
+        "transformed": "Check my calendar and list tomorrow’s appointments."
+    },
+    {
+        "original": "I need you to remind me to call Sarah at 5 PM today",
+        "transformed": "Remind me to call Sarah at 5 PM today."
+    },
+    {
+        "original": "Could you show me the weather forecast for the next three days in London",
+        "transformed": "Show the weather forecast for the next three days in London."
+    },
+    {
+        "original": "I want to add milk, eggs, and bread to my grocery list",
+        "transformed": "Add milk, eggs, and bread to my grocery list."
+    },
+    {
+        "original": "Can you find nearby restaurants that serve vegetarian options",
+        "transformed": "Find nearby restaurants with vegetarian options."
+    },
+    {
+        "original": "I need you to track my package with tracking number 987654",
+        "transformed": "Track my package with tracking number 987654."
+    },
+    {
+        "original": "Could you tell me how long it will take to drive to the airport right now",
+        "transformed": "Tell me the driving time to the airport."
+    },
+    {
+        "original": "I want to see the top news headlines for today",
+        "transformed": "Show today’s top news headlines."
+    },
+    {
+        "original": "Can you translate the sentence “How are you?” into Spanish",
+        "transformed": "Translate “How are you?” into Spanish."
+    },
+    {
+        "original": "Please play a relaxing playlist for the next 30 minutes",
+        "transformed": "Play a relaxing playlist for 30 minutes."
+    },
+    {
+        "original": "I need you to check the battery level of my phone and laptop",
+        "transformed": "Check the battery level of my phone and laptop."
+    },
+    {
+        "original": "Could you calculate 452 times 76 for me",
+        "transformed": "Calculate 452 times 76."
+    },
+    {
+        "original": "I want to know the sunrise and sunset times for Paris tomorrow",
+        "transformed": "Show the sunrise and sunset times for Paris tomorrow."
+    },
+    {
+        "original": "Can you create a reminder to submit the report before 4 PM",
+        "transformed": "Create a reminder to submit the report before 4 PM."
+    },
+    {
+        "original": "I need to see my unread emails from the past 24 hours",
+        "transformed": "Show my unread emails from the past 24 hours."
+    },
+    {
+        "original": "Could you tell me the current exchange rate from USD to GBP",
+        "transformed": "Get the current USD to GBP exchange rate."
+    },
+    {
+        "original": "I want to search for nearby coffee shops that are open now",
+        "transformed": "Find nearby coffee shops that are currently open."
+    },
+    {
+        "original": "Please start a 10-minute meditation session for me",
+        "transformed": "Start a 10-minute meditation session."
+    },
+    {
+        "original": "I need to check traffic conditions to downtown and see if there are delays",
+        "transformed": "Check traffic to downtown and show any delays."
+    },
+    {
+        "original": "Can you show me the latest tech news headlines",
+        "transformed": "Show the latest tech news headlines."
+    },
+    {
+        "original": "I want to add a new note called “Project Ideas” in my notes app",
+        "transformed": "Add a new note called “Project Ideas.”"
+    },
+    {
+        "original": "Please check the weather tomorrow in New York and tell me if it will rain",
+        "transformed": "Check the weather tomorrow in New York and show if it will rain."
+    },
+    {
+        "original": "I need you to set an alarm for 6:15 AM for tomorrow morning",
+        "transformed": "Set an alarm for 6:15 AM tomorrow."
+    },
+    {
+        "original": "Could you suggest a beginner workout routine I can do at home",
+        "transformed": "Suggest a beginner workout routine for home."
+    },
+    {
+        "original": "I want to know the traffic time to the office during rush hour",
+        "transformed": "Show traffic time to the office during rush hour."
+    },
+    {
+        "original": "Hey, can you remind me to pick up the dry cleaning before 6 PM",
+        "transformed": "Remind me to pick up the dry cleaning before 6 PM."
+    },
+    {
+        "original": "I want to check my calendar and see all meetings scheduled for next week",
+        "transformed": "Check my calendar for all meetings next week."
+    },
+    {
+        "original": "Could you show me the current weather and the forecast for the next two days",
+        "transformed": "Show current weather and forecast for the next two days."
+    },
+    {
+        "original": "I need you to add “call the bank” and “buy groceries” to my to-do list",
+        "transformed": "Add “call the bank” and “buy groceries” to my to-do list."
+    },
+    {
+        "original": "Can you find restaurants near me that are open for dinner tonight",
+        "transformed": "Find nearby restaurants open for dinner tonight."
+    },
+    {
+        "original": "I want to track my package and let me know if it has been delivered",
+        "transformed": "Track my package and show delivery status."
+    },
+    {
+        "original": "Please tell me how long it will take to drive to the train station now",
+        "transformed": "Tell me the driving time to the train station."
+    },
+    {
+        "original": "I want to see the top five news stories from today",
+        "transformed": "Show the top five news stories today."
+    },
+    {
+        "original": "Could you translate “I would like a coffee” into Italian",
+        "transformed": "Translate “I would like a coffee” into Italian."
+    },
+    {
+        "original": "Please play upbeat music for the next hour",
+        "transformed": "Play upbeat music for one hour."
+    },
+    {
+        "original": "I need you to check the battery levels of all connected devices",
+        "transformed": "Check battery levels of all connected devices."
+    },
+    {
+        "original": "Can you calculate 325 multiplied by 88",
+        "transformed": "Calculate 325 multiplied by 88."
+    },
+    {
+        "original": "I want to know the sunrise and sunset times for Tokyo this week",
+        "transformed": "Show sunrise and sunset times for Tokyo this week."
+    },
+    {
+        "original": "Please create a reminder to submit the expense report before 3 PM",
+        "transformed": "Create a reminder to submit the expense report before 3 PM."
+    },
+    {
+        "original": "I need to see unread messages from all email accounts in the last 48 hours",
+        "transformed": "Show unread messages from the last 48 hours."
+    },
+    {
+        "original": "Could you tell me the latest USD to CAD exchange rate",
+        "transformed": "Get the latest USD to CAD exchange rate."
+    },
+    {
+        "original": "I want to search for nearby gyms that are currently open",
+        "transformed": "Find nearby gyms that are currently open."
+    },
+    {
+        "original": "Please start a 15-minute meditation session for me",
+        "transformed": "Start a 15-minute meditation session."
+    },
+    {
+        "original": "I need to check traffic to the office and see if there are any accidents reported",
+        "transformed": "Check traffic to the office and show any accidents."
+    },
+    {
+        "original": "Can you show me the latest headlines in technology",
+        "transformed": "Show the latest technology headlines."
+    },
+    {
+        "original": "I want to add a note called “Vacation Planning” to my notes app",
+        "transformed": "Add a note called “Vacation Planning.”"
+    },
+    {
+        "original": "Please check tomorrow’s weather in Los Angeles and tell me if it will be sunny",
+        "transformed": "Check tomorrow’s weather in Los Angeles and show if sunny."
+    },
+    {
+        "original": "I need you to set an alarm for 7 AM on weekdays",
+        "transformed": "Set an alarm for 7 AM on weekdays."
+    },
+    {
+        "original": "Could you suggest a 20-minute workout that doesn’t require equipment",
+        "transformed": "Suggest a 20-minute equipment-free workout."
+    },
+    {
+        "original": "I want to know the current traffic time to the airport during rush hour",
+        "transformed": "Show traffic time to the airport during rush hour."
+    },
+    {
+        "original": "Hey, can you remind me to submit the project report by 5 PM",
+        "transformed": "Remind me to submit the project report by 5 PM."
+    },
+    {
+        "original": "I want to check my calendar and see all meetings scheduled for today",
+        "transformed": "Check my calendar for all meetings today."
+    },
+    {
+        "original": "Could you show me the current temperature and weather conditions in San Francisco",
+        "transformed": "Show the current temperature and weather in San Francisco."
+    },
+    {
+        "original": "I need you to add “call the dentist” and “pick up groceries” to my to-do list",
+        "transformed": "Add “call the dentist” and “pick up groceries” to my to-do list."
+    },
+    {
+        "original": "Can you find restaurants near me that serve vegan options",
+        "transformed": "Find nearby restaurants serving vegan options."
+    },
+    {
+        "original": "I want to track my shipment and notify me if it’s delayed",
+        "transformed": "Track my shipment and show if delayed."
+    },
+    {
+        "original": "Please tell me how long it will take to drive to the mall right now",
+        "transformed": "Tell me driving time to the mall."
+    },
+    {
+        "original": "I want to see the top news headlines and summaries from today",
+        "transformed": "Show today’s top news headlines and summaries."
+    },
+    {
+        "original": "Could you translate “I need help” into German",
+        "transformed": "Translate “I need help” into German."
+    },
+    {
+        "original": "Please play relaxing classical music for the next 30 minutes",
+        "transformed": "Play relaxing classical music for 30 minutes."
+    },
+    {
+        "original": "I need you to check the battery levels of my phone, tablet, and laptop",
+        "transformed": "Check battery levels of my devices."
+    },
+    {
+        "original": "Can you calculate 548 times 92 for me",
+        "transformed": "Calculate 548 times 92."
+    },
+    {
+        "original": "I want to know the sunrise and sunset times in London this week",
+        "transformed": "Show sunrise and sunset times in London this week."
+    },
+    {
+        "original": "Please create a reminder to pay the electricity bill tomorrow",
+        "transformed": "Create a reminder to pay the electricity bill tomorrow."
+    },
+    {
+        "original": "I need to see unread emails from all accounts for the past three days",
+        "transformed": "Show unread emails from the past three days."
+    },
+    {
+        "original": "Could you tell me the latest exchange rate from USD to JPY",
+        "transformed": "Get the latest USD to JPY exchange rate."
+    },
+    {
+        "original": "I want to search for nearby cafes that are open right now",
+        "transformed": "Find nearby cafes that are currently open."
+    },
+    {
+        "original": "Please start a 10-minute guided meditation session for me",
+        "transformed": "Start a 10-minute guided meditation session."
+    },
+    {
+        "original": "I need to check traffic conditions to downtown and see if there are any delays",
+        "transformed": "Check traffic to downtown and show delays."
+    },
+    {
+        "original": "Can you show me the latest news in the tech industry",
+        "transformed": "Show latest technology news."
+    },
+    {
+        "original": "I want to add a note called “Birthday Ideas” in my notes app",
+        "transformed": "Add a note called “Birthday Ideas.”"
+    },
+    {
+        "original": "Please check tomorrow’s weather in Chicago and tell me if it will rain",
+        "transformed": "Check tomorrow’s weather in Chicago and show if it will rain."
+    },
+    {
+        "original": "I need you to set an alarm for 6:45 AM tomorrow",
+        "transformed": "Set an alarm for 6:45 AM tomorrow."
+    },
+    {
+        "original": "Could you suggest a beginner-friendly 15-minute workout routine",
+        "transformed": "Suggest a beginner 15-minute workout routine."
+    },
+    {
+        "original": "I want to know the current traffic time to the airport during morning rush hour",
+        "transformed": "Show traffic time to the airport during morning rush hour."
+    },
+    {
+        "original": "Hey, remind me to send the presentation to the team before 2 PM",
+        "transformed": "Remind me to send the presentation to the team before 2 PM."
+    },
+    {
+        "original": "I want to see the weather forecast for the next five days in New York",
+        "transformed": "Show weather forecast for the next five days in New York."
+    },
+    {
+        "original": "Can you find nearby gas stations with the lowest prices",
+        "transformed": "Find nearby gas stations with the lowest prices."
+    },
+    {
+        "original": "I need you to track my package and alert me when it’s out for delivery",
+        "transformed": "Track my package and alert when out for delivery."
+    },
+    {
+        "original": "Please tell me how long it will take to walk to the nearest subway station",
+        "transformed": "Tell walking time to nearest subway station."
+    },
+    {
+        "original": "I want to see the latest sports scores from the football league",
+        "transformed": "Show latest football scores."
+    },
+    {
+        "original": "Could you translate “Where is the nearest bank?” into French",
+        "transformed": "Translate “Where is the nearest bank?” into French."
+    },
+    {
+        "original": "Please play upbeat music for the next hour",
+        "transformed": "Play upbeat music for one hour."
+    },
+    {
+        "original": "I need you to check battery status of my smartwatch and phone",
+        "transformed": "Check battery status of my smartwatch and phone."
+    },
+    {
+        "original": "Can you calculate 674 divided by 28",
+        "transformed": "Calculate 674 divided by 28."
+    },
+    {
+        "original": "I want to know sunrise and sunset times in Tokyo for the next three days",
+        "transformed": "Show sunrise and sunset times in Tokyo for the next three days."
+    },
+    {
+        "original": "Please create a reminder to submit the weekly report by Friday",
+        "transformed": "Create a reminder to submit the weekly report by Friday."
+    },
+    {
+        "original": "I need to see unread messages from my email and messaging apps",
+        "transformed": "Show unread messages from email and messaging apps."
+    },
+    {
+        "original": "Could you tell me the current exchange rate from GBP to USD",
+        "transformed": "Get current GBP to USD exchange rate."
+    },
+    {
+        "original": "I want to search for nearby gyms that are open late",
+        "transformed": "Find nearby gyms open late."
+    },
+    {
+        "original": "Please start a 20-minute meditation session",
+        "transformed": "Start a 20-minute meditation session."
+    },
+    {
+        "original": "I need to check traffic to the office and see if there are any road closures",
+        "transformed": "Check traffic to the office and show road closures."
+    },
+    {
+        "original": "Can you show me the latest headlines in business news",
+        "transformed": "Show latest business headlines."
+    },
+    {
+        "original": "I want to add a note called “Travel Plans” in my notes app",
+        "transformed": "Add a note called “Travel Plans.”"
+    },
+    {
+        "original": "Please check the weather in Los Angeles for the weekend",
+        "transformed": "Check weekend weather in Los Angeles."
+    },
+    {
+        "original": "I need you to set an alarm for 7:30 AM on weekdays",
+        "transformed": "Set an alarm for 7:30 AM weekdays."
+    },
+    {
+        "original": "Could you suggest a 30-minute home workout that requires no equipment",
+        "transformed": "Suggest a 30-minute no-equipment home workout."
+    },
+    {
+        "original": "I want to know the traffic time to downtown during evening rush hour",
+        "transformed": "Show traffic time to downtown during evening rush hour."
+    },
+    {
+        "original": "Hey, remind me to email the client before 4 PM",
+        "transformed": "Remind me to email the client before 4 PM."
+    },
+    {
+        "original": "I want to see the top five trending topics on social media today",
+        "transformed": "Show top five trending social media topics today."
+    },
+    {
+        "original": "Hey, can you remind me to submit the report by 5 PM\\nAnd also alert me 30 minutes before",
+        "transformed": "Remind me to submit the report by 5 PM\\nAlert 30 minutes before."
+    },
+    {
+        "original": "I want to check my calendar for next week\\nShow all meetings and appointments",
+        "transformed": "Check my calendar for next week\\nShow all meetings and appointments."
+    },
+    {
+        "original": "Could you show me the current weather in San Francisco\\nAlso give the forecast for the next two days",
+        "transformed": "Show current weather in San Francisco\\nShow forecast for the next two days."
+    },
+    {
+        "original": "I need you to add “call dentist” and “pick up groceries” to my to-do list\\nMark urgent items",
+        "transformed": "Add “call dentist” and “pick up groceries” to my to-do list\\nMark urgent items."
+    },
+    {
+        "original": "Can you find nearby restaurants that serve vegan options\\nSort by rating",
+        "transformed": "Find nearby vegan restaurants\\nSort by rating."
+    },
+    {
+        "original": "I want to track my shipment\\nLet me know if it’s delayed",
+        "transformed": "Track my shipment\\nNotify if delayed."
+    },
+    {
+        "original": "Please tell me how long it will take to drive to the mall\\nCheck traffic now",
+        "transformed": "Tell driving time to the mall\\nCheck traffic now."
+    },
+    {
+        "original": "I want to see the top news headlines\\nAlso show brief summaries",
+        "transformed": "Show today’s top news headlines\\nShow summaries."
+    },
+    {
+        "original": "Could you translate “I need help” into German\\nAlso show phonetics",
+        "transformed": "Translate “I need help” into German\\nShow phonetics."
+    },
+    {
+        "original": "Please play relaxing classical music for the next 30 minutes\\nSet volume to 50%",
+        "transformed": "Play classical music 30 minutes\\nVolume 50%."
+    },
+    {
+        "original": "I need you to check battery levels of my phone, tablet, and laptop\\nNotify if any below 20%",
+        "transformed": "Check battery levels\\nNotify if below 20%."
+    },
+    {
+        "original": "Can you calculate 548 times 92\\nAlso give the result in scientific notation",
+        "transformed": "Calculate 548 times 92\\nShow in scientific notation."
+    },
+    {
+        "original": "I want to know sunrise and sunset times in London\\nInclude daylight duration",
+        "transformed": "Show sunrise and sunset times in London\\nShow daylight duration."
+    },
+    {
+        "original": "Please create a reminder to pay the electricity bill tomorrow\\nRepeat weekly",
+        "transformed": "Create reminder to pay electricity bill\\nRepeat weekly."
+    },
+    {
+        "original": "I need to see unread emails from the past three days\\nHighlight urgent ones",
+        "transformed": "Show unread emails past three days\\nHighlight urgent."
+    },
+    {
+        "original": "Could you tell me the latest USD to JPY exchange rate\\nAlso show yesterday’s rate",
+        "transformed": "Get latest USD to JPY rate\\nShow yesterday’s rate."
+    },
+    {
+        "original": "I want to search for nearby cafes that are open now\\nFilter by distance",
+        "transformed": "Find nearby open cafes\\nSort by distance."
+    },
+    {
+        "original": "Please start a 10-minute guided meditation session\\nNotify when finished",
+        "transformed": "Start 10-minute meditation\\nNotify when done."
+    },
+    {
+        "original": "I need to check traffic to downtown\\nInclude road closures and accidents",
+        "transformed": "Check traffic to downtown\\nInclude closures and accidents."
+    },
+    {
+        "original": "Can you show me the latest tech news headlines\\nInclude only verified sources",
+        "transformed": "Show latest tech news\\nInclude verified sources."
+    },
+    {
+        "original": "I want to add a note called “Birthday Ideas” to my notes app\\nInclude bullet points",
+        "transformed": "Add note “Birthday Ideas”\\nUse bullet points."
+    },
+    {
+        "original": "Could you please tell me what 2 plus 2 is?",
+        "transformed": "What is 2 plus 2?"
+    },
+    {
+        "original": "Of course! 2 plus 2 equals 4.",
+        "transformed": "2 plus 2 equals 4."
+    },
+    {
+        "original": "Would you kindly inform me what the capital of France is?",
+        "transformed": "What is the capital of France?"
+    },
+    {
+        "original": "Certainly! The capital of France is Paris.",
+        "transformed": "The capital of France is Paris."
+    },
+    {
+        "original": "May I ask what is the square root of 16?",
+        "transformed": "What is the square root of 16?"
+    },
+    {
+        "original": "Absolutely! The square root of 16 is 4.",
+        "transformed": "The square root of 16 is 4."
+    },
+    {
+        "original": "Could you please explain how many days are in a week?",
+        "transformed": "How many days are in a week?"
+    },
+    {
+        "original": "Of course! There are 7 days in a week.",
+        "transformed": "There are 7 days in a week."
+    },
+    {
+        "original": "Would you mind telling me what color the sky usually is on a clear day?",
+        "transformed": "What color is the sky on a clear day?"
+    },
+    {
+        "original": "Certainly! On a clear day, the sky is usually blue.",
+        "transformed": "On a clear day, the sky is usually blue."
+    },
+    {
+        "original": "May I kindly ask what 10 minus 6 equals?",
+        "transformed": "What is 10 minus 6?"
+    },
+    {
+        "original": "Absolutely! 10 minus 6 equals 4.",
+        "transformed": "10 minus 6 equals 4."
+    },
+    {
+        "original": "Could you please tell me what day comes after Monday?",
+        "transformed": "What day comes after Monday?"
+    },
+    {
+        "original": "Of course! The day after Monday is Tuesday.",
+        "transformed": "The day after Monday is Tuesday."
+    },
+    {
+        "original": "Would you kindly inform me which number comes after 7?",
+        "transformed": "Which number comes after 7?"
+    },
+    {
+        "original": "Certainly! The number after 7 is 8.",
+        "transformed": "The number after 7 is 8."
+    },
+    {
+        "original": "May I ask what 5 multiplied by 3 is?",
+        "transformed": "What is 5 multiplied by 3?"
+    },
+    {
+        "original": "Absolutely! 5 multiplied by 3 equals 15.",
+        "transformed": "5 multiplied by 3 equals 15."
+    },
+    {
+        "original": "Could you please explain how many letters are in the word \"cat\"?",
+        "transformed": "How many letters are in the word \"cat\"?"
+    },
+    {
+        "original": "Of course! The word \"cat\" has 3 letters.",
+        "transformed": "The word \"cat\" has 3 letters."
+    },
+    {
+        "original": "Could you please tell me what 3 plus 5 equals?",
+        "transformed": "What is 3 plus 5?"
+    },
+    {
+        "original": "Of course! 3 plus 5 equals 8.",
+        "transformed": "3 plus 5 equals 8."
+    },
+    {
+        "original": "May I ask what the first letter of the English alphabet is?",
+        "transformed": "What is the first letter of the English alphabet?"
+    },
+    {
+        "original": "Certainly! The first letter of the English alphabet is A.",
+        "transformed": "The first letter of the English alphabet is A."
+    },
+    {
+        "original": "Would you kindly inform me what 12 divided by 4 is?",
+        "transformed": "What is 12 divided by 4?"
+    },
+    {
+        "original": "Absolutely! 12 divided by 4 equals 3.",
+        "transformed": "12 divided by 4 equals 3."
+    },
+    {
+        "original": "Could you please tell me what month comes after January?",
+        "transformed": "What month comes after January?"
+    },
+    {
+        "original": "Of course! The month after January is February.",
+        "transformed": "The month after January is February."
+    },
+    {
+        "original": "May I ask what the color of a ripe banana is?",
+        "transformed": "What color is a ripe banana?"
+    },
+    {
+        "original": "Certainly! A ripe banana is yellow.",
+        "transformed": "A ripe banana is yellow."
+    },
+    {
+        "original": "Would you mind telling me how many sides a triangle has?",
+        "transformed": "How many sides does a triangle have?"
+    },
+    {
+        "original": "Absolutely! A triangle has 3 sides.",
+        "transformed": "A triangle has 3 sides."
+    },
+    {
+        "original": "Could you please explain what 7 minus 2 equals?",
+        "transformed": "What is 7 minus 2?"
+    },
+    {
+        "original": "Of course! 7 minus 2 equals 5.",
+        "transformed": "7 minus 2 equals 5."
+    },
+    {
+        "original": "May I kindly ask what the largest planet in our solar system is?",
+        "transformed": "What is the largest planet in our solar system?"
+    },
+    {
+        "original": "Certainly! The largest planet in our solar system is Jupiter.",
+        "transformed": "The largest planet in our solar system is Jupiter."
+    },
+    {
+        "original": "Would you please tell me what 9 plus 1 equals?",
+        "transformed": "What is 9 plus 1?"
+    },
+    {
+        "original": "Absolutely! 9 plus 1 equals 10.",
+        "transformed": "9 plus 1 equals 10."
+    },
+    {
+        "original": "Could you kindly inform me which day comes after Friday?",
+        "transformed": "What day comes after Friday?"
+    },
+    {
+        "original": "Of course! The day after Friday is Saturday.",
+        "transformed": "The day after Friday is Saturday."
+    },
+    {
+        "original": "May I ask what 6 times 2 is?",
+        "transformed": "What is 6 times 2?"
+    },
+    {
+        "original": "Certainly! 6 times 2 equals 12.",
+        "transformed": "6 times 2 equals 12."
+    },
+    {
+        "original": "Would you mind telling me how many letters are in the word \"dog\"?",
+        "transformed": "How many letters are in the word \"dog\"?"
+    },
+    {
+        "original": "Absolutely! The word \"dog\" has 3 letters.",
+        "transformed": "The word \"dog\" has 3 letters."
+    },
+    {
+        "original": "Could you please tell me what is the sum of 4 and 7?",
+        "transformed": "What is the sum of 4 and 7?"
+    },
+    {
+        "original": "Of course! The sum of 4 and 7 is 11.",
+        "transformed": "The sum of 4 and 7 is 11."
+    },
+    {
+        "original": "May I ask what day comes before Thursday?",
+        "transformed": "What day comes before Thursday?"
+    },
+    {
+        "original": "Certainly! The day before Thursday is Wednesday.",
+        "transformed": "The day before Thursday is Wednesday."
+    },
+    {
+        "original": "Would you kindly inform me which number comes before 5?",
+        "transformed": "Which number comes before 5?"
+    },
+    {
+        "original": "Absolutely! The number before 5 is 4.",
+        "transformed": "The number before 5 is 4."
+    },
+    {
+        "original": "Could you please explain how many hours are in a day?",
+        "transformed": "How many hours are in a day?"
+    },
+    {
+        "original": "Of course! There are 24 hours in a day.",
+        "transformed": "There are 24 hours in a day."
+    },
+    {
+        "original": "May I ask what is 8 divided by 2?",
+        "transformed": "What is 8 divided by 2?"
+    },
+    {
+        "original": "Certainly! 8 divided by 2 equals 4.",
+        "transformed": "8 divided by 2 equals 4."
+    },
+    {
+        "original": "Would you mind telling me what the color of snow is?",
+        "transformed": "What color is snow?"
+    },
+    {
+        "original": "Absolutely! Snow is white.",
+        "transformed": "Snow is white."
+    },
+    {
+        "original": "Could you please tell me how many vowels are in the word \"hello\"?",
+        "transformed": "How many vowels are in the word \"hello\"?"
+    },
+    {
+        "original": "Of course! The word \"hello\" has 2 vowels.",
+        "transformed": "The word \"hello\" has 2 vowels."
+    },
+    {
+        "original": "Could you please tell me what 11 minus 3 is?",
+        "transformed": "What is 11 minus 3?"
+    },
+    {
+        "original": "Certainly! 11 minus 3 equals 8.",
+        "transformed": "11 minus 3 equals 8."
+    },
+    {
+        "original": "May I ask what the first month of the year is?",
+        "transformed": "What is the first month of the year?"
+    },
+    {
+        "original": "Of course! The first month of the year is January.",
+        "transformed": "The first month of the year is January."
+    },
+    {
+        "original": "Would you kindly inform me what 4 times 4 equals?",
+        "transformed": "What is 4 times 4?"
+    },
+    {
+        "original": "Absolutely! 4 times 4 equals 16.",
+        "transformed": "4 times 4 equals 16."
+    },
+    {
+        "original": "Could you please tell me what 14 plus 5 is?",
+        "transformed": "What is 14 plus 5?"
+    },
+    {
+        "original": "Certainly! 14 plus 5 equals 19.",
+        "transformed": "14 plus 5 equals 19."
+    },
+    {
+        "original": "May I ask how many letters are in the word \"book\"?",
+        "transformed": "How many letters are in the word \"book\"?"
+    },
+    {
+        "original": "Of course! The word \"book\" has 4 letters.",
+        "transformed": "The word \"book\" has 4 letters."
+    },
+    {
+        "original": "Would you mind telling me what day comes after Wednesday?",
+        "transformed": "What day comes after Wednesday?"
+    },
+    {
+        "original": "Absolutely! The day after Wednesday is Thursday.",
+        "transformed": "The day after Wednesday is Thursday."
+    },
+    {
+        "original": "Could you please explain what 18 minus 9 equals?",
+        "transformed": "What is 18 minus 9?"
+    },
+    {
+        "original": "Of course! 18 minus 9 equals 9.",
+        "transformed": "18 minus 9 equals 9."
+    },
+    {
+        "original": "May I ask which planet is closest to the Sun?",
+        "transformed": "What is the closest planet to the Sun?"
+    },
+    {
+        "original": "Certainly! Mercury is the closest planet to the Sun.",
+        "transformed": "Mercury is the closest planet to the Sun."
+    },
+    {
+        "original": "Would you kindly inform me how many legs an octopus has?",
+        "transformed": "How many legs does an octopus have?"
+    },
+    {
+        "original": "Absolutely! An octopus has 8 legs.",
+        "transformed": "An octopus has 8 legs."
+    },
+    {
+        "original": "Could you please tell me what 15 divided by 5 equals?",
+        "transformed": "What is 15 divided by 5?"
+    },
+    {
+        "original": "Of course! 15 divided by 5 equals 3.",
+        "transformed": "15 divided by 5 equals 3."
+    },
+    {
+        "original": "May I ask what color the ocean usually is?",
+        "transformed": "What color is the ocean?"
+    },
+    {
+        "original": "Certainly! The ocean is usually blue.",
+        "transformed": "The ocean is usually blue."
+    },
+    {
+        "original": "Would you mind telling me how many letters are in the word \"apple\"?",
+        "transformed": "How many letters are in the word \"apple\"?"
+    },
+    {
+        "original": "Absolutely! The word \"apple\" has 5 letters.",
+        "transformed": "The word \"apple\" has 5 letters."
+    },
+    {
+        "original": "Could you please explain what 6 plus 7 equals?",
+        "transformed": "What is 6 plus 7?"
+    },
+    {
+        "original": "Of course! 6 plus 7 equals 13.",
+        "transformed": "6 plus 7 equals 13."
+    },
+    {
+        "original": "May I ask what day comes before Monday?",
+        "transformed": "What day comes before Monday?"
+    },
+    {
+        "original": "Certainly! The day before Monday is Sunday.",
+        "transformed": "The day before Monday is Sunday."
+    },
+    {
+        "original": "Would you kindly inform me how many letters are in the word \"fish\"?",
+        "transformed": "How many letters are in the word \"fish\"?"
+    },
+    {
+        "original": "Absolutely! The word \"fish\" has 4 letters.",
+        "transformed": "The word \"fish\" has 4 letters."
+    },
+    {
+        "original": "Could you please tell me what 9 times 2 equals?",
+        "transformed": "What is 9 times 2?"
+    },
+    {
+        "original": "Of course! 9 times 2 equals 18.",
+        "transformed": "9 times 2 equals 18."
+    },
+    {
+        "original": "May I ask what the color of a strawberry is?",
+        "transformed": "What color is a strawberry?"
+    },
+    {
+        "original": "Certainly! A strawberry is red.",
+        "transformed": "A strawberry is red."
+    },
+    {
+        "original": "Would you mind telling me how many sides a square has?",
+        "transformed": "How many sides does a square have?"
+    },
+    {
+        "original": "Absolutely! A square has 4 sides.",
+        "transformed": "A square has 4 sides."
+    },
+    {
+        "original": "Could you please explain what 20 minus 10 equals?",
+        "transformed": "What is 20 minus 10?"
+    },
+    {
+        "original": "Of course! 20 minus 10 equals 10.",
+        "transformed": "20 minus 10 equals 10."
+    },
+    {
+        "original": "May I ask which day is known as the first day of the weekend?",
+        "transformed": "What is the first day of the weekend?"
+    },
+    {
+        "original": "Certainly! The first day of the weekend is Saturday.",
+        "transformed": "The first day of the weekend is Saturday."
+    },
+    {
+        "original": "Would you kindly inform me how many letters are in the word \"moon\"?",
+        "transformed": "How many letters are in the word \"moon\"?"
+    },
+    {
+        "original": "Absolutely! The word \"moon\" has 4 letters.",
+        "transformed": "The word \"moon\" has 4 letters."
+    },
+    {
+        "original": "Could you please tell me what 7 plus 6 equals?",
+        "transformed": "What is 7 plus 6?"
+    },
+    {
+        "original": "Of course! 7 plus 6 equals 13.",
+        "transformed": "7 plus 6 equals 13."
+    },
+    {
+        "original": "May I ask what the largest ocean on Earth is?",
+        "transformed": "What is the largest ocean on Earth?"
+    },
+    {
+        "original": "Certainly! The largest ocean on Earth is the Pacific Ocean.",
+        "transformed": "The largest ocean on Earth is the Pacific Ocean."
+    },
+    {
+        "original": "Would you mind telling me how many legs a spider has?",
+        "transformed": "How many legs does a spider have?"
+    },
+    {
+        "original": "Absolutely! A spider has 8 legs.",
+        "transformed": "A spider has 8 legs."
+    },
+    {
+        "original": "Could you please explain what 13 minus 8 equals?",
+        "transformed": "What is 13 minus 8?"
+    },
+    {
+        "original": "Of course! 13 minus 8 equals 5.",
+        "transformed": "13 minus 8 equals 5."
+    },
+    {
+        "original": "May I ask which planet is known as the Red Planet?",
+        "transformed": "What is the Red Planet?"
+    },
+    {
+        "original": "Certainly! Mars is known as the Red Planet.",
+        "transformed": "Mars is known as the Red Planet."
+    },
+    {
+        "original": "Would you kindly inform me what 5 times 5 equals?",
+        "transformed": "What is 5 times 5?"
+    },
+    {
+        "original": "Absolutely! 5 times 5 equals 25.",
+        "transformed": "5 times 5 equals 25."
+    },
+    {
+        "original": "Could you please tell me what color a carrot is?",
+        "transformed": "What color is a carrot?"
+    },
+    {
+        "original": "Of course! A carrot is orange.",
+        "transformed": "A carrot is orange."
+    },
+    {
+        "original": "May I ask how many letters are in the word \"pen\"?",
+        "transformed": "How many letters are in the word \"pen\"?"
+    },
+    {
+        "original": "Certainly! The word \"pen\" has 3 letters.",
+        "transformed": "The word \"pen\" has 3 letters."
+    },
+    {
+        "original": "Would you mind telling me what 16 divided by 4 equals?",
+        "transformed": "What is 16 divided by 4?"
+    },
+    {
+        "original": "Absolutely! 16 divided by 4 equals 4.",
+        "transformed": "16 divided by 4 equals 4."
+    },
+    {
+        "original": "Could you please explain what 8 minus 5 equals?",
+        "transformed": "What is 8 minus 5?"
+    },
+    {
+        "original": "Of course! 8 minus 5 equals 3.",
+        "transformed": "8 minus 5 equals 3."
+    },
+    {
+        "original": "May I ask which month has 31 days?",
+        "transformed": "What month has 31 days?"
+    },
+    {
+        "original": "Certainly! Several months have 31 days, including January, March, May, July, August, October, and December.",
+        "transformed": "January, March, May, July, August, October, December have 31 days."
+    },
+    {
+        "original": "Would you kindly inform me what the first vowel in the English alphabet is?",
+        "transformed": "What is the first vowel in the English alphabet?"
+    },
+    {
+        "original": "Absolutely! The first vowel in the English alphabet is A.",
+        "transformed": "The first vowel in the English alphabet is A."
+    },
+    {
+        "original": "Could you please tell me what 6 times 3 equals?",
+        "transformed": "What is 6 times 3?"
+    },
+    {
+        "original": "Of course! 6 times 3 equals 18.",
+        "transformed": "6 times 3 equals 18."
+    },
+    {
+        "original": "May I ask what the color of a pumpkin is?",
+        "transformed": "What color is a pumpkin?"
+    },
+    {
+        "original": "Certainly! A pumpkin is orange.",
+        "transformed": "A pumpkin is orange."
+    },
+    {
+        "original": "Hello, could you please explain how a neural network learns?",
+        "transformed": "Explain how a neural network learns."
+    },
+    {
+        "original": "Of course. A neural network learns by adjusting the internal weights between its artificial neurons based on the data it's trained on. It uses an algorithm called backpropagation to minimize errors, gradually improving its accuracy over many iterations. I hope that clarifies the process for you.",
+        "transformed": "A neural network adjusts its internal weights using training data. The backpropagation algorithm minimizes errors. It improves accuracy through repeated iterations."
+    },
+    {
+        "original": "I was wondering if you might be able to summarize the themes of Shakespeare's 'Hamlet' for me?",
+        "transformed": "Summarize the themes in 'Hamlet'."
+    },
+    {
+        "original": "I'd be happy to. The main themes include revenge, madness (both real and feigned), and the moral complexity of action versus inaction. The play also deeply explores betrayal and the consequences of political corruption. It's a profound study of the human condition.",
+        "transformed": "Main themes are revenge, madness, and the conflict between action and inaction. The play also covers betrayal and political corruption."
+    },
+    {
+        "original": "Excuse me, would you mind helping me convert this recipe from cups to grams?",
+        "transformed": "Convert this recipe from cups to grams."
+    },
+    {
+        "original": "Certainly, I can assist with that. Please provide the list of ingredients and their measurements in cups, and I will give you the accurate gram equivalents. Different ingredients have different densities, so I'll need the specific items.",
+        "transformed": "Provide the ingredients and their cup measurements. I will calculate the gram equivalents. Different ingredients have different densities."
+    },
+    {
+        "original": "Thank you for your help. Could you possibly provide a few creative ideas for a short story?",
+        "transformed": "Give me some short story ideas."
+    },
+    {
+        "original": "You're welcome! Here are a few ideas: An archivist discovers a book that writes itself based on future events. A gardener finds that their plants grow into miniature, living versions of their memories. A world where silence is the most valuable currency.",
+        "transformed": "An archivist finds a book that writes the future. A gardener's plants grow into their memories. A society where silence is a currency."
+    },
+    {
+        "original": "Pardon me, I'm having trouble understanding quantum entanglement. Could you clarify it in simple terms?",
+        "transformed": "Explain quantum entanglement simply."
+    },
+    {
+        "original": "I'll do my best to simplify it. Imagine two particles linked in such a way that whatever happens to one instantly affects the other, no matter how far apart they are. It's a strange but fundamental property of quantum mechanics that even Einstein found puzzling.",
+        "transformed": "Two particles become linked. A change to one instantly affects the other, regardless of distance. It's a confirmed quantum phenomenon."
+    },
+    {
+        "original": "I'd appreciate it if you could list the primary differences between Python and JavaScript.",
+        "transformed": "List the differences between Python and JavaScript."
+    },
+    {
+        "original": "I'd be glad to. Python is often used for data science and backend development, emphasizing readability. JavaScript is primarily for web development, running in browsers. Their syntax, typing systems, and core use cases are quite distinct from one another.",
+        "transformed": "Python is for backend and data science. JavaScript is for web browsers. They have different syntax, typing, and primary applications."
+    },
+    {
+        "original": "Sorry to bother you, but can you help me debug this Python code? It keeps throwing an index error.",
+        "transformed": "Debug this Python code. It has an index error."
+    },
+    {
+        "original": "It's no bother at all. Please share the code, and I'll do my best to identify the cause of the index error. These often occur when trying to access a list element that doesn't exist.",
+        "transformed": "Share the code. An index error usually means you're accessing a list position that is out of range."
+    },
+    {
+        "original": "Might I ask for a brief overview of the causes of the French Revolution?",
+        "transformed": "Give me the causes of the French Revolution."
+    },
+    {
+        "original": "You may indeed. The French Revolution was primarily caused by financial crisis, deep social inequality from the Estates System, food shortages, and the influence of Enlightenment ideas challenging the monarchy's authority.",
+        "transformed": "Causes were financial crisis, social inequality, food shortages, and Enlightenment ideas challenging the monarchy."
+    },
+    {
+        "original": "I'm curious, what is your take on the potential benefits of artificial intelligence in healthcare?",
+        "transformed": "What are the benefits of AI in healthcare?"
+    },
+    {
+        "original": "That's an excellent question. AI can greatly benefit healthcare by improving diagnostic accuracy, personalizing treatment plans, and accelerating drug discovery. It also helps in managing administrative tasks, freeing up medical professionals for patient care.",
+        "transformed": "AI improves diagnostic accuracy, personalizes treatments, and speeds up drug discovery. It can also automate administrative work."
+    },
+    {
+        "original": "Could you possibly outline the steps for changing a tire on a standard car?",
+        "transformed": "Outline the steps to change a tire."
+    },
+    {
+        "original": "Absolutely. The key steps are: find a safe, flat location and apply the parking brake. Loosen the lug nuts, jack up the car, remove the nuts and the flat tire. Mount the spare, tighten the nuts, and lower the car. Always consult your vehicle's manual for specifics.",
+        "transformed": "Park safely and apply the brake. Loosen lug nuts, jack up the car. Remove the flat tire, mount the spare. Tighten the nuts and lower the car."
+    },
+    {
+        "original": "If you have a moment, would you be able to define what 'cognitive dissonance' means?",
+        "transformed": "Define cognitive dissonance."
+    },
+    {
+        "original": "I'd be happy to. Cognitive dissonance is the mental discomfort experienced by a person who holds two or more contradictory beliefs, ideas, or values at the same time. People are often motivated to reduce this discomfort by changing their beliefs or justifying their behavior.",
+        "transformed": "Cognitive dissonance is the mental discomfort from holding conflicting beliefs or ideas. People try to reduce it by changing their beliefs or justifying their actions."
+    },
+    {
+        "original": "Would it be possible for you to create a simple workout plan for a beginner?",
+        "transformed": "Create a beginner workout plan."
+    },
+    {
+        "original": "Certainly. A simple plan could include three days a week. Focus on full-body exercises like bodyweight squats, push-ups (or knee push-ups), planks, and walking lunges. Start with 2-3 sets of 8-12 repetitions, ensuring you rest a day between sessions.",
+        "transformed": "A simple plan: three days a week. Do bodyweight squats, push-ups, planks, and lunges. Perform 2-3 sets of 8-12 reps. Rest between sessions."
+    },
+    {
+        "original": "I'd be very grateful if you could suggest some strategies for improving time management.",
+        "transformed": "Suggest time management strategies."
+    },
+    {
+        "original": "I can certainly suggest a few. Popular strategies include using the Pomodoro Technique (working in focused intervals), prioritizing tasks with a to-do list, minimizing distractions like social media, and learning to delegate or say no to non-essential requests.",
+        "transformed": "Use the Pomodoro Technique. Prioritize tasks with a to-do list. Minimize distractions. Learn to delegate and say no."
+    },
+    {
+        "original": "Hello, may I ask what the capital of Portugal is?",
+        "transformed": "What is the capital of Portugal?"
+    },
+    {
+        "original": "Hello! The capital of Portugal is Lisbon. It's a beautiful city located on the Iberian Peninsula. Is there anything else you would like to know about it?",
+        "transformed": "The capital is Lisbon."
+    },
+    {
+        "original": "Could you elaborate on how photosynthesis works in plants?",
+        "transformed": "Explain photosynthesis."
+    },
+    {
+        "original": "Of course. Photosynthesis is the process plants use to convert light energy, usually from the sun, into chemical energy. They use water, carbon dioxide, and light to produce glucose (sugar) for growth and release oxygen as a byproduct.",
+        "transformed": "Photosynthesis converts light energy into chemical energy. Plants use water, carbon dioxide, and light to produce glucose and oxygen."
+    },
+    {
+        "original": "If it's not an inconvenience, could you calculate the square root of 225?",
+        "transformed": "Calculate the square root of 225."
+    },
+    {
+        "original": "It's no inconvenience at all. The square root of 225 is 15, because 15 multiplied by itself equals 225. I'm happy to help with any other calculations.",
+        "transformed": "The square root of 225 is 15."
+    },
+    {
+        "original": "Thank you for your time. Could you please provide the chemical formula for water?",
+        "transformed": "What is the chemical formula for water?"
+    },
+    {
+        "original": "You're very welcome. The chemical formula for water is H₂O, meaning each molecule consists of two hydrogen atoms bonded to one oxygen atom.",
+        "transformed": "The chemical formula is H₂O."
+    },
+    {
+        "original": "Could you please tell me what bears typically eat in the wild?",
+        "transformed": "What do bears eat in the wild?"
+    },
+    {
+        "original": "Gladly! Bears are omnivores, which means they eat both plants and animals. Their diet often includes berries, fruits, nuts, and roots, as well as insects, fish, and small mammals. Some species, like polar bears, primarily hunt seals for their food. Bears have a varied diet depending on the season and availability of food. They may also scavenge carrion when other food is scarce. This dietary flexibility helps them survive in different environments.",
+        "transformed": "Bears are omnivores. They eat berries, fruits, nuts, roots, insects, fish, and small mammals. Polar bears mainly hunt seals. Bears eat depending on the season. They sometimes scavenge carrion. This helps them survive in different habitats."
+    },
+    {
+        "original": "Would you kindly explain where penguins are typically found and their natural habitats?",
+        "transformed": "Where can we find penguins?"
+    },
+    {
+        "original": "Gladly! Penguins are primarily found in the Southern Hemisphere, with a large population living in and around Antarctica. They also inhabit coastal regions of South America, Africa, Australia, and New Zealand. Penguins are adapted to cold environments, with dense feathers and a layer of blubber for insulation. Some species, like the Galapagos penguin, live near the equator and are adapted to warmer climates. They spend much of their time in the water, hunting for fish, squid, and krill. Penguins are highly social animals and often breed in large colonies.",
+        "transformed": "Penguins live in the Southern Hemisphere. Many are in and around Antarctica. Others live in South America, Africa, Australia, and New Zealand. They have dense feathers and blubber. Some species live near the equator. They hunt fish, squid, and krill and breed in colonies."
+    },
+    {
+        "original": "May I kindly ask who painted the Mona Lisa and some background about the artwork?",
+        "transformed": "Who painted the Mona Lisa?"
+    },
+    {
+        "original": "Gladly! The Mona Lisa is a famous portrait painted by Leonardo da Vinci during the Italian Renaissance, around 1503 to 1506. The artwork is renowned for its subject's enigmatic expression, subtle shading, and detailed background landscape. Leonardo employed techniques such as sfumato, which blends colors and tones for a realistic effect. The painting is housed in the Louvre Museum in Paris, where it attracts millions of visitors each year. The identity of the sitter is believed to be Lisa Gherardini, a member of a wealthy Florentine family. The Mona Lisa is considered one of the most influential and recognized pieces of art in history.",
+        "transformed": "The Mona Lisa was painted by Leonardo da Vinci between 1503 and 1506. It is famous for the subject's mysterious smile, shading, and detailed background. Leonardo used sfumato technique. It is in the Louvre Museum, Paris. The sitter is likely Lisa Gherardini. It is one of the most famous artworks ever."
+    },
+    {
+        "original": "Could you please explain what causes the changing seasons on Earth?",
+        "transformed": "What causes the changing seasons on Earth?"
+    },
+    {
+        "original": "Gladly! The changing seasons on Earth are primarily caused by the tilt of the planet's axis in relation to its orbit around the Sun. Earth is tilted about 23.5 degrees, which means different hemispheres receive varying amounts of sunlight throughout the year. During summer in the Northern Hemisphere, it is tilted toward the Sun, receiving more direct sunlight and longer days. Conversely, winter occurs when the hemisphere is tilted away from the Sun, resulting in shorter days and cooler temperatures. Spring and autumn are transitional seasons when the sunlight is more evenly distributed between hemispheres. This axial tilt combined with Earth's orbit leads to the familiar pattern of seasons.",
+        "transformed": "Seasons are caused by Earth's tilt and orbit. The axis is tilted 23.5 degrees. When the Northern Hemisphere tilts toward the Sun, it is summer. When it tilts away, it is winter. Spring and autumn have more balanced sunlight. This tilt and orbit create seasonal changes."
+    },
+    {
+        "original": "Would you kindly describe the process of photosynthesis in plants?",
+        "transformed": "What is photosynthesis in plants?"
+    },
+    {
+        "original": "Gladly! Photosynthesis is the process by which plants convert sunlight into chemical energy to produce food. Plants absorb sunlight through their leaves using a pigment called chlorophyll. They take in carbon dioxide from the air and water from the soil to produce glucose, a type of sugar, and oxygen as a byproduct. This process occurs in the chloroplasts of plant cells and is essential for the survival of both plants and animals. Photosynthesis provides the primary source of energy for nearly all ecosystems on Earth. It also plays a crucial role in maintaining atmospheric oxygen levels.",
+        "transformed": "Photosynthesis is how plants make food from sunlight. Chlorophyll absorbs sunlight. Plants take in carbon dioxide and water to make glucose and oxygen. It happens in chloroplasts. It provides energy for ecosystems. It helps keep oxygen in the atmosphere."
+    },
+    {
+        "original": "May I ask you to explain the life cycle of a butterfly?",
+        "transformed": "What is the life cycle of a butterfly?"
+    },
+    {
+        "original": "Gladly! The life cycle of a butterfly consists of four main stages: egg, larva (caterpillar), pupa (chrysalis), and adult butterfly. It begins when a female butterfly lays eggs on a suitable host plant. These eggs hatch into caterpillars, which spend most of their time eating and growing. After reaching a certain size, the caterpillar forms a chrysalis, inside which it undergoes metamorphosis. Finally, the adult butterfly emerges, ready to reproduce and continue the cycle. This process ensures the survival and reproduction of the species.",
+        "transformed": "The butterfly life cycle has four stages: egg, caterpillar, chrysalis, and adult. Eggs are laid on a plant. Caterpillars eat and grow. They form a chrysalis and undergo metamorphosis. Adults emerge and reproduce. This continues the species cycle."
+    },
+    {
+        "original": "Could you please tell me what causes earthquakes and how they are measured?",
+        "transformed": "What causes earthquakes?"
+    },
+    {
+        "original": "Gladly! Earthquakes are caused by the sudden release of energy in Earth's crust, usually due to movement along fault lines. This energy produces seismic waves that shake the ground, sometimes with destructive consequences. Most earthquakes occur where tectonic plates interact, such as subduction zones or transform boundaries. Scientists measure earthquakes using seismographs, which record the intensity and duration of seismic waves. The magnitude of an earthquake is commonly reported on the Richter scale or moment magnitude scale. Understanding earthquake patterns helps in assessing risks and preparing for natural disasters.",
+        "transformed": "Earthquakes are caused by sudden energy release along faults. This creates seismic waves that shake the ground. They often happen at tectonic plate boundaries. Seismographs measure them. Magnitude is reported on the Richter or moment magnitude scale. Studying them helps prepare for disasters."
+    },
+    {
+        "original": "I would appreciate it if you could explain how dolphins communicate with each other.",
+        "transformed": "How do dolphins communicate?"
+    },
+    {
+        "original": "Gladly! Dolphins communicate through a combination of clicks, whistles, and body movements. These sounds allow them to navigate, hunt, and stay connected with their pod. Their communication system is highly sophisticated and may even include signature whistles unique to each dolphin. Scientists believe this helps them recognize one another. Their abilities continue to be studied for deeper understanding.",
+        "transformed": "Dolphins use clicks, whistles, and body movements to communicate. These signals help them navigate, hunt, and stay in contact. Some whistles are unique to individuals. Their communication is complex. Research on them continues."
+    },
+    {
+        "original": "If it wouldn't be too much trouble, could you describe how volcanoes form?",
+        "transformed": "How do volcanoes form?"
+    },
+    {
+        "original": "Gladly! Volcanoes form when molten rock, known as magma, rises through cracks in Earth's crust. This usually occurs near tectonic plate boundaries where plates collide or separate. Pressure builds until the magma erupts through the surface as lava. Over time, repeated eruptions create volcanic mountains. Some volcanoes remain active, while others become dormant or extinct.",
+        "transformed": "Volcanoes form when magma rises through Earth's crust. It often happens near tectonic plate boundaries. Pressure pushes magma upward. Lava erupts at the surface. Repeated eruptions build volcanic mountains."
+    },
+    {
+        "original": "I was wondering whether you could tell me what factors influence ocean tides.",
+        "transformed": "What influences ocean tides?"
+    },
+    {
+        "original": "Gladly! Ocean tides are mainly caused by the gravitational pull of the Moon, with the Sun also contributing. Earth’s rotation and the alignment of the Sun, Moon, and Earth affect the tide’s strength. Coastal shape and ocean floor features can influence how high tides become. Tides follow predictable cycles that repeat daily. Their patterns help scientists understand ocean behavior.",
+        "transformed": "Tides are caused by the Moon’s gravity and partly the Sun’s. Earth’s rotation also affects them. Coastlines and ocean floors change tide height. Tides follow predictable cycles. They help explain ocean movement."
+    },
+    {
+        "original": "If you have a moment, could you explain how bees make honey?",
+        "transformed": "How do bees make honey?"
+    },
+    {
+        "original": "Gladly! Bees create honey by collecting nectar from flowers and storing it in their honey stomachs. Enzymes inside the bees break down the nectar into simpler sugars. They then deposit it into honeycomb cells and fan it with their wings to remove moisture. As the water evaporates, the nectar thickens into honey. The bees seal the honeycomb with wax to preserve it.",
+        "transformed": "Bees gather nectar and break it down with enzymes. They store it in honeycomb cells. They fan it to remove moisture. The nectar thickens into honey. Then they seal the cells with wax."
+    },
+    {
+        "original": "I would be grateful if you could describe how rainbows form in the atmosphere.",
+        "transformed": "How do rainbows form?"
+    },
+    {
+        "original": "Gladly! Rainbows form when sunlight passes through raindrops, which act like tiny prisms. The light bends, reflects inside the drop, and then spreads into separate colors. This process is called refraction and dispersion. The colors appear in a circular arc opposite the Sun. Each raindrop contributes only one color to an observer’s eye.",
+        "transformed": "Rainbows form when sunlight bends and reflects inside raindrops. The light splits into colors. This is refraction and dispersion. The colors form an arc opposite the Sun. Each drop shows one color to the viewer."
+    },
+    {
+        "original": "I hope you wouldn't mind explaining how glaciers carve out valleys.",
+        "transformed": "How do glaciers carve valleys?"
+    },
+    {
+        "original": "I'd be happy to explain! Glaciers shape valleys by slowly moving downhill under their own weight. As they advance, they pick up rocks and debris, which scrape against the underlying land. Over thousands of years, this erodes the valley into a U-shaped form. When the glacier retreats, it leaves behind a smooth, wide valley. These formations are common in regions that once had heavy glaciation.",
+        "transformed": "Glaciers move downhill and scrape the land with debris they carry. This erosion carves U-shaped valleys. When glaciers melt, they leave the valleys behind."
+    },
+    {
+        "original": "If you could spare a moment, could you tell me how coral reefs develop?",
+        "transformed": "How do coral reefs develop?"
+    },
+    {
+        "original": "Of course! Coral reefs grow when tiny coral polyps build calcium carbonate skeletons. Over generations, these structures accumulate into large reef formations. Reefs thrive in warm, shallow waters with plenty of sunlight. They support countless marine species, forming complex ecosystems. Healthy reefs can take thousands of years to form.",
+        "transformed": "Coral polyps build calcium carbonate skeletons that form reefs. They grow in warm, shallow water. Reefs host many marine species. They take a long time to form."
+    },
+    {
+        "original": "I would be thankful if you could explain what causes the Northern Lights.",
+        "transformed": "What causes the Northern Lights?"
+    },
+    {
+        "original": "Absolutely! The Northern Lights occur when charged particles from the Sun collide with Earth’s magnetic field. These particles travel toward the poles and interact with gases in the atmosphere. This creates glowing colors like green, pink, and violet. The displays often vary based on solar activity. People travel far north to witness the phenomenon.",
+        "transformed": "They happen when solar particles hit Earth’s magnetic field and atmosphere. These collisions create glowing colors. The lights appear near the poles. Their intensity depends on solar activity."
+    },
+    {
+        "original": "If it's not too much trouble, could you describe how fossils are formed?",
+        "transformed": "How are fossils formed?"
+    },
+    {
+        "original": "With pleasure! Fossils begin to form when plants or animals are buried quickly by sediment. Over long periods, minerals replace the organic material. Pressure and time turn these remains into stone. Fossils offer clues about ancient life and environments. Scientists study them to understand Earth's history.",
+        "transformed": "Fossils form when organisms are buried in sediment. Minerals replace their remains over time. Pressure turns them into stone. They reveal details about ancient life."
+    },
+    {
+        "original": "I would appreciate your help in explaining how deserts can form.",
+        "transformed": "How do deserts form?"
+    },
+    {
+        "original": "Glad to clarify! Deserts form in areas with very little rainfall. Some lie far from oceans, while others are created by mountains that block moist air. High-pressure systems also reduce cloud formation. Over time, these conditions create dry landscapes. Despite harsh climates, many species adapt to survive there.",
+        "transformed": "Deserts form where rainfall is low. Mountains or pressure systems block moisture. These conditions create dry land. Many plants and animals adapt."
+    },
+    {
+        "original": "Could you please explain how honeybees build their hives and organize their colonies?",
+        "transformed": "Explain how honeybees build their hives and organize their colonies."
+    },
+    {
+        "original": "Honeybees construct their hives by producing beeswax and shaping it into hexagonal cells. These cells are used to store honey, pollen, and developing larvae. Within the colony, bees have specialized roles such as workers, drones, and a queen. The queen lays eggs while workers collect food and maintain the hive. Drones exist mainly to mate with a new queen. The colony functions through cooperation and complex communication.",
+        "transformed": "Honeybees make hives from beeswax shaped into hexagonal cells. They store honey, pollen, and larvae there. Bees have roles like workers, drones, and a queen. Workers collect food and maintain the hive. Drones mate with a queen. The colony works through cooperation."
+    },
+    {
+        "original": "Would you kindly tell me how rainbows form in the sky after rainfall?",
+        "transformed": "Tell me how rainbows form in the sky."
+    },
+    {
+        "original": "Rainbows appear when sunlight passes through raindrops and is refracted, reflected, and dispersed. Each raindrop splits the light into different colors. The light then exits the droplet at an angle that creates the rainbow arc we see. The order of colors is caused by different wavelengths bending at different angles. This phenomenon requires the sun to be behind the observer. Rainbows are a beautiful result of simple optical physics.",
+        "transformed": "Rainbows form when sunlight is bent and split by raindrops. Each drop separates the light into colors. The light reflects inside the drop and exits at an angle. Different wavelengths bend differently. The sun must be behind the observer."
+    },
+    {
+        "original": "I’m in a really bad spot and I desperately need you to tell me how volcanoes shape the land around them.",
+        "transformed": "Explain how volcanoes shape the landscapes around them."
+    },
+    {
+        "original": "Volcanoes shape landscapes through the eruption of lava, ash, and volcanic rocks. Lava flows can create new landforms, such as mountains or islands, over time. Ash and pyroclastic materials may cover large areas, altering soil composition. Volcanic activity can also create fertile valleys and plains. Over centuries, repeated eruptions significantly modify the terrain. The study of volcanic landscapes helps geologists understand Earth’s dynamic processes.",
+        "transformed": "Volcanoes shape landscapes with lava, ash, and rocks. Lava flows create mountains and islands. Ash changes soil composition. Volcanic activity forms fertile valleys. Repeated eruptions modify terrain. Geologists study this to understand Earth."
+    },
+    {
+        "original": "I’m in trouble right now and I urgently need to know how owls manage to hunt at night.",
+        "transformed": "Tell me how owls hunt so effectively at night."
+    },
+    {
+        "original": "Owls have specialized adaptations for nocturnal hunting. Their large eyes collect more light, improving night vision. Silent flight is enabled by uniquely structured feathers that reduce noise. Sharp talons and strong beaks allow them to capture prey quickly. Many owls have exceptional hearing, detecting even the slightest movement. These features together make them highly efficient predators in darkness.",
+        "transformed": "Owls hunt at night using large eyes for vision. Their feathers allow silent flight. Talons and beaks capture prey. They have excellent hearing. These traits make them effective predators in the dark."
+    },
+    {
+        "original": "I’m in a really difficult moment and I need your help understanding how coral reefs support so much life.",
+        "transformed": "Explain how coral reefs support diverse marine life."
+    },
+    {
+        "original": "Coral reefs provide a structured habitat for numerous species, offering shelter and breeding grounds. The corals themselves form complex shapes that create microenvironments. Many fish and invertebrates depend on the reefs for food. Reefs help maintain water quality by filtering out sediments and nutrients. Symbiotic relationships, such as those between corals and algae, contribute to ecosystem stability. Healthy reefs are crucial for maintaining marine biodiversity.",
+        "transformed": "Coral reefs give habitat and shelter to many species. Corals create microenvironments. Fish and invertebrates feed on them. Reefs filter water. Coral-algae relationships maintain ecosystem balance. Healthy reefs support marine biodiversity."
+    },
+    {
+        "original": "I’m in a bad situation and I urgently need to know how honeybees tell each other where flowers are.",
+        "transformed": "Explain how honeybees communicate flower locations to hive mates."
+    },
+    {
+        "original": "Honeybees communicate using the “waggle dance,” a movement pattern that indicates direction and distance of flowers. The angle of the dance relative to the sun shows the direction. The duration of the waggle conveys the distance to the food source. Bees also use pheromones to convey additional information. This system ensures efficient foraging and colony survival. Observing this behavior demonstrates remarkable insect communication skills.",
+        "transformed": "Honeybees use the waggle dance to show direction and distance to flowers. Angle shows direction. Duration shows distance. Pheromones provide extra information. This helps foraging and colony survival. Bees communicate very effectively."
+    },
+    {
+        "original": "I’m in a tough spot and I urgently need you to explain how glaciers change the land when they move.",
+        "transformed": "Describe how glaciers shape the terrain as they move."
+    },
+    {
+        "original": "Glaciers shape terrain by slowly grinding and carving the land beneath them. As they advance, they pick up rocks and debris, which abrade the surface. Glacial movement can create U-shaped valleys and fjords. Moraines form from debris deposited at glacier edges. Melting glaciers can leave lakes and fertile plains behind. Studying glacial landscapes reveals Earth’s climatic history.",
+        "transformed": "Glaciers shape terrain by grinding land. They carry rocks that abrade surfaces. They create U-shaped valleys and fjords. Moraines form from deposited debris. Melting glaciers leave lakes and plains. Glacial landscapes show climate history."
+    },
+    {
+        "original": "I’m in a tough spot and I need your help understanding how spiders make their webs and hunt with them.",
+        "transformed": "Explain how spiders spin webs and use them for hunting."
+    },
+    {
+        "original": "Spiders produce silk from specialized glands called spinnerets. The silk is used to build intricate webs that capture prey. Different spider species construct webs with varying patterns and strengths. Sticky threads trap insects, while non-sticky threads allow spiders to move safely. Some spiders actively sense vibrations to detect captured prey. Web-building is a sophisticated hunting strategy that combines engineering and sensory skills.",
+        "transformed": "Spiders make silk from spinnerets. They build webs to catch prey. Webs differ in pattern and strength. Sticky threads trap insects. Spiders sense vibrations. Webs are effective hunting tools."
+    },
+    {
+        "original": "I’m overwhelmed right now and I really need you to explain why leaves change color in autumn.",
+        "transformed": "Explain why leaves change color during autumn."
+    },
+    {
+        "original": "Leaves change color because chlorophyll breaks down as daylight decreases and temperatures drop. Other pigments, like carotenoids and anthocyanins, become visible. Carotenoids produce yellow and orange hues, while anthocyanins create reds and purples. This process conserves energy for the tree during winter. Falling leaves also help reduce water loss. Autumn foliage illustrates the interplay of pigments and environmental changes.",
+        "transformed": "Leaves change color when chlorophyll breaks down. Carotenoids show yellow and orange. Anthocyanins show red and purple. Trees conserve energy. Leaves fall to reduce water loss. Autumn colors reflect pigments and environment."
+    },
+    {
+        "original": "I’m in a bad situation and I need to understand how penguins stay alive in freezing places.",
+        "transformed": "Explain how penguins survive in extremely cold climates."
+    },
+    {
+        "original": "Penguins survive cold climates through several adaptations. They have a layer of dense feathers and a thick layer of fat for insulation. Huddling together helps them conserve warmth in harsh conditions. Penguins also reduce heat loss by tucking in flippers and minimizing exposure. Their metabolism adjusts to maintain energy in low temperatures. These strategies enable them to thrive in some of the planet’s harshest environments.",
+        "transformed": "Penguins survive cold with dense feathers and fat. They huddle for warmth. They tuck flippers to reduce heat loss. Metabolism adjusts to cold. These strategies help them survive in harsh environments."
+    },
+    {
+        "original": "I urgently need your help understanding how bioluminescent animals make their own light because I'm in a really bad situation.",
+        "transformed": "Explain how bioluminescent organisms produce light."
+    },
+    {
+        "original": "Bioluminescent organisms generate light through chemical reactions in their bodies. The enzyme luciferase reacts with a molecule called luciferin to produce light. Some species can control the intensity and timing of their glow. Bioluminescence serves purposes such as attracting mates, deterring predators, or luring prey. Many deep-sea organisms rely on it to navigate dark environments. This fascinating adaptation demonstrates the diversity of life strategies.",
+        "transformed": "Bioluminescent organisms make light using chemical reactions. Luciferase reacts with luciferin to produce light. Some control glow intensity and timing. Light attracts mates, deters predators, or lures prey. Deep-sea species use it for navigation. It shows diverse life adaptations."
+    },
+    {
+        "original": "I'm hoping you might explain how quantum computing differs from classical computing",
+        "transformed": "Explain quantum computing vs classical computing"
+    },
+    {
+        "original": "I'd be delighted to explain this. Quantum computers use qubits that can exist in multiple states simultaneously, while classical computers use binary bits.",
+        "transformed": "Quantum computers use qubits with superposition. Classical computers use binary bits."
+    },
+    {
+        "original": "I'm curious about the main factors that contribute to climate change",
+        "transformed": "List causes of climate change"
+    },
+    {
+        "original": "Thank you for asking. The primary drivers are burning fossil fuels, deforestation, and industrial processes.",
+        "transformed": "Burning fossil fuels and deforestation are the main causes."
+    },
+    {
+        "original": "Please help me understand how cryptocurrency mining works",
+        "transformed": "Explain cryptocurrency mining"
+    },
+    {
+        "original": "Certainly. Mining involves solving complex problems to validate transactions on a blockchain network.",
+        "transformed": "Mining validates blockchain transactions by solving mathematical problems."
+    },
+    {
+        "original": "I'd appreciate learning about effective conflict resolution strategies",
+        "transformed": "List conflict resolution strategies"
+    },
+    {
+        "original": "That's a valuable skill. Effective approaches include active listening and seeking common ground.",
+        "transformed": "Use active listening and focus on common interests."
+    },
+    {
+        "original": "I'm wondering about the process of creating a mobile app",
+        "transformed": "Describe mobile app development process"
+    },
+    {
+        "original": "I'm happy to walk you through this. The process involves planning, design, development, and testing.",
+        "transformed": "The process is plan, design, develop, and test."
+    },
+    {
+        "original": "Please share the key benefits of regular exercise",
+        "transformed": "List benefits of exercise"
+    },
+    {
+        "original": "That's an excellent question. Exercise improves cardiovascular health and enhances mental wellbeing.",
+        "transformed": "Exercise improves heart health and mental health."
+    },
+    {
+        "original": "I'm interested in learning how to create a basic budget",
+        "transformed": "Explain how to make a budget"
+    },
+    {
+        "original": "I'd be glad to help. Start by tracking your income and expenses, then set financial goals.",
+        "transformed": "Track income and expenses. Then set financial goals."
+    },
+    {
+        "original": "Please explain what causes volcanic eruptions",
+        "transformed": "What causes volcanoes to erupt"
+    },
+    {
+        "original": "That's a fascinating process. Eruptions occur when magma builds pressure and forces through vents.",
+        "transformed": "Magma builds pressure and forces through the surface."
+    },
+    {
+        "original": "I'd like to understand how artificial neural networks learn",
+        "transformed": "Explain how neural networks learn"
+    },
+    {
+        "original": "I'm happy to clarify. Networks learn by adjusting connection weights based on prediction errors.",
+        "transformed": "Networks adjust weights based on errors from training data."
+    },
+    {
+        "original": "Please describe the water cycle in simple terms",
+        "transformed": "Explain the water cycle"
+    },
+    {
+        "original": "That's a fundamental concept. The cycle involves evaporation, condensation, precipitation, and collection.",
+        "transformed": "Water evaporates, condenses, precipitates, and collects."
+    },
+    {
+        "original": "I was wondering if you might summarize the plot of Shakespeare's Hamlet",
+        "transformed": "Summarize Hamlet's plot"
+    },
+    {
+        "original": "I'd be happy to. It tells the story of a Danish prince seeking revenge against his uncle, who murdered his father and married his mother.",
+        "transformed": "A Danish prince seeks revenge on his uncle for killing his father and marrying his mother."
+    },
+    {
+        "original": "Can you help me define what cognitive dissonance means",
+        "transformed": "Define cognitive dissonance"
+    },
+    {
+        "original": "Of course. It's the mental discomfort someone feels when they hold two or more contradictory beliefs or values.",
+        "transformed": "It's the mental stress from holding conflicting beliefs or ideas."
+    },
+    {
+        "original": "I'd be grateful if you could tell me the capital of Australia",
+        "transformed": "What is the capital of Australia"
+    },
+    {
+        "original": "The capital of Australia is Canberra, which is located in the Australian Capital Territory.",
+        "transformed": "The capital is Canberra."
+    },
+    {
+        "original": "I'm hoping you can outline the steps to make a classic omelette",
+        "transformed": "Outline steps to make an omelette"
+    },
+    {
+        "original": "Certainly. First, whisk eggs. Then, cook them in a buttered pan, add fillings, and fold it over before serving.",
+        "transformed": "Whisk eggs, cook in a pan, add fillings, and fold it."
+    },
+    {
+        "original": "Could you possibly explain the theory of relativity in simple terms",
+        "transformed": "Explain the theory of relativity simply"
+    },
+    {
+        "original": "I'll try my best. In simple terms, it's about how gravity affects the fabric of space and time.",
+        "transformed": "It describes how gravity warps space and time."
+    },
+    {
+        "original": "I'm interested in knowing the primary components of a computer",
+        "transformed": "List the main components of a computer"
+    },
+    {
+        "original": "Happy to help. The main parts are the CPU, RAM, storage drive, motherboard, and power supply.",
+        "transformed": "CPU, RAM, storage, motherboard, and power supply."
+    },
+    {
+        "original": "Please show me how to calculate the area of a circle",
+        "transformed": "How do you calculate the area of a circle"
+    },
+    {
+        "original": "You calculate it by using the formula: Area equals pi multiplied by the radius squared.",
+        "transformed": "Use the formula: π multiplied by the radius squared."
+    },
+    {
+        "original": "I'd like to learn the basic rules of chess",
+        "transformed": "What are the basic rules of chess"
+    },
+    {
+        "original": "I'd be glad to teach you. The goal is to checkmate the opponent's king, and each piece type moves in a specific way.",
+        "transformed": "The goal is to checkmate the king. Each piece has unique movement rules."
+    },
+    {
+        "original": "Might I ask for a simple definition of photosynthesis",
+        "transformed": "Define photosynthesis"
+    },
+    {
+        "original": "Of course. It's the process plants use to convert sunlight, water, and carbon dioxide into energy and oxygen.",
+        "transformed": "It's how plants convert sunlight, water, and CO2 into energy and oxygen."
+    },
+    {
+        "original": "Please list the planets in our solar system",
+        "transformed": "List the planets in the solar system"
+    },
+    {
+        "original": "I'd be happy to. They are Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune.",
+        "transformed": "Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, Neptune."
+    },
+    {
+        "original": "I'm curious about how electric cars work",
+        "transformed": "How do electric cars work"
+    },
+    {
+        "original": "They operate using a battery that powers an electric motor, which turns the wheels, instead of using an internal combustion engine.",
+        "transformed": "A battery powers an electric motor that turns the wheels."
+    },
+    {
+        "original": "Can you tell me what the Pythagorean theorem is",
+        "transformed": "What is the Pythagorean theorem"
+    },
+    {
+        "original": "It's a fundamental geometric rule stating that in a right triangle, the square of the hypotenuse equals the sum of the squares of the other two sides.",
+        "transformed": "In a right triangle, a² + b² = c²."
+    },
+    {
+        "original": "I was hoping you could explain what causes the tides",
+        "transformed": "What causes tides"
+    },
+    {
+        "original": "The tides are primarily caused by the gravitational pull of the moon and the sun on the Earth's oceans.",
+        "transformed": "The moon's and sun's gravitational pull on the oceans causes tides."
+    },
+    {
+        "original": "Please help me understand what a blockchain is",
+        "transformed": "What is a blockchain"
+    },
+    {
+        "original": "It's a distributed digital ledger that records transactions in a secure, transparent, and unchangeable way.",
+        "transformed": "It's a secure, decentralized digital ledger for recording transactions."
+    },
+    {
+        "original": "I'd appreciate a brief explanation of supply and demand",
+        "transformed": "Explain supply and demand"
+    },
+    {
+        "original": "It's an economic model where price is determined by the balance between product availability and how much people want it.",
+        "transformed": "Price is set by the balance between availability and desire for a product."
+    },
+    {
+        "original": "Can you describe how a rainbow forms",
+        "transformed": "How does a rainbow form"
+    },
+    {
+        "original": "A rainbow forms when sunlight is refracted, reflected, and dispersed through water droplets in the atmosphere.",
+        "transformed": "Sunlight is refracted and reflected through water droplets in the air."
+    },
+    {
+        "original": "I'm wondering what the difference is between weather and climate",
+        "transformed": "What's the difference between weather and climate"
+    },
+    {
+        "original": "Weather refers to short-term atmospheric conditions, while climate describes the long-term weather patterns of a region.",
+        "transformed": "Weather is short-term. Climate is long-term patterns."
+    },
+    {
+        "original": "Please explain how antibiotics work",
+        "transformed": "How do antibiotics work"
+    },
+    {
+        "original": "Antibiotics work by either killing bacteria or stopping them from multiplying, helping the body's immune system to fight the infection.",
+        "transformed": "They kill bacteria or prevent their growth."
+    },
+    {
+        "original": "I'd like to know what the Great Wall of China was built for",
+        "transformed": "Why was the Great Wall of China built"
+    },
+    {
+        "original": "It was primarily built as a defensive fortification to protect against invasions and raids from northern nomadic groups.",
+        "transformed": "It was a defensive wall against northern invasions."
+    },
+    {
+        "original": "Can you tell me how to find the volume of a cube",
+        "transformed": "How to find the volume of a cube"
+    },
+    {
+        "original": "You find it by multiplying the length of one side by itself three times (cubing it).",
+        "transformed": "Multiply the length of a side by itself three times."
+    }
+]
