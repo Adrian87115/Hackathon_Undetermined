@@ -7,11 +7,11 @@ def main():
     # semicolon_csv_to_json("../Datasets/trivial_prompts_polite.csv", "../Datasets/trivial_prompts_polite.json")
     # convert_csv("data/my_data.txt", "data/my_data.csv")
 
-    # model = eco.ECOGPT(dataset_path = "../Datasets/merged.json", train_mode = 1, batch_size = 16, total_batch_size = 64 * 16, sequence_length = 64)
-    # model.train()
+    model = eco.ECOGPT(dataset_path = "../Datasets/merged.json", batch_size = 32, sequence_length = 64)
+    model.train()
 
-    model = eco.ECOGPT(checkpoint = "models/eco_gpt_20.pth")
-    eco.convert(model)
+    # model = eco.ECOGPT(checkpoint = "models/eco_gpt_20.pth", batch_size = 64, sequence_length = 64)
+    # eco.convert(model)
 
 if __name__:
     main()

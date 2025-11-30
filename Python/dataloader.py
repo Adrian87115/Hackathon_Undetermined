@@ -32,34 +32,31 @@ class DataLoaderPT:
         self.epoch = 0
 
     def nextBatch(self):
-        batch_x = []
-        batch_y = []
+        batch_x, batch_y = [], []
 
         for _ in range(self.batch_size):
             if self.current_idx >= len(self.entries):
-                raise StopIteration
+
+                if not batch_x:
+                    raise StopIteration
+                else:
+                    break
 
             entry = self.entries[self.current_idx]
-
-            # encode input + target together
             tokens = self.enc.encode_pair(entry['original'], entry['transformed'])
-            # For causal LM, input = all tokens except last, target = all tokens except first
-            x_tokens = tokens[:-1]
-            y_tokens = tokens[1:]
 
-            # pad to sequence_length
-            max_len = max(len(x_tokens), len(y_tokens), self.sequence_length)
-            x_tokens = x_tokens[:max_len] + [0]*(max_len - len(x_tokens))
-            y_tokens = y_tokens[:max_len] + [0]*(max_len - len(y_tokens))
+            if len(tokens) < self.sequence_length + 1:
+                tokens = tokens + [0] * (self.sequence_length + 1 - len(tokens))
 
+            x_tokens, y_tokens = tokens[:-1], tokens[1:]
             batch_x.append(torch.tensor(x_tokens, dtype=torch.long))
             batch_y.append(torch.tensor(y_tokens, dtype=torch.long))
-
             self.current_idx += 1
 
+        if not batch_x:
+            raise StopIteration
+
         return torch.stack(batch_x), torch.stack(batch_y)
-
-
 
     def reset_eval(self):
         self.current_idx = 0
