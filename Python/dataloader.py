@@ -1,7 +1,8 @@
 import torch
 import json
 import random
-import utils as u
+# import utils as u
+from Python import utils as u
 
 class DataLoaderPT:
     def __init__(self, batch_size, sequence_length, database_path, train = True):

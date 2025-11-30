@@ -1,22 +1,26 @@
 import torch
 import time
 from torch.nn import functional as F
-import model as m
-import utils as u
-import dataloader as dl
+# import model as m
+from Python import model as m
+
+# import utils as u
+from Python import utils as u
+# import dataloader as dl
+from Python import dataloader as dl
 
 class ECOGPT():
     def __init__(self, batch_size, sequence_length,train_mode = True, dataset_path = None, checkpoint = None): # train_mode = False : not in training mode
                                                                                                                # train_mode = True : training mode
         super(ECOGPT, self).__init__()
-        assert torch.cuda.is_available(), "CUDA is not available"
+        # assert torch.cuda.is_available(), "CUDA is not available"
         self.device = torch.device("cuda")
         self.checkpoint = checkpoint
         self.train_mode = train_mode
         self.batch_size = batch_size
         self.sequence_length = sequence_length
         self.current_epoch = 0
-        self.config = u.loadConfig("config.json")
+        self.config = u.loadConfig("/Users/norbert/Hackathon_Undetermined/Python/config.json")
         self.max_epochs = self.config.max_epochs
         self.model = m.ScaledGPT(self.config).to(self.device)
         torch.backends.cuda.matmul.fp32_precision = 'tf32'

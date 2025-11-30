@@ -2,8 +2,12 @@ from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 from openai import OpenAI
+import sys
 import os
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
+from Python.eco_gpt import ECOGPT
 import time
+
 
 app = FastAPI()
 
@@ -21,9 +25,20 @@ class TextRequest(BaseModel):
 
 @app.post("/process")
 def process_text(req: TextRequest):
-    time.sleep(2)
-    reponse = f"{req.text} changed"
-    return {"received": reponse}
+
+    #req.text jest string
+
+
+
+    # time.sleep(2)
+    # reponse = f"{req.text} changed"
+
+    model = ECOGPT(checkpoint="Python/models/eco_gpt_20.pth", batch_size = 32, sequence_length = 64)
+
+    output = model.generateResponse(req.text)
+
+
+    return {"received": output}
 
 
 
