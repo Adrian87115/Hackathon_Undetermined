@@ -1,0 +1,273 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  width: 100%;
+  background: linear-gradient(135deg, 
+  #0f5132 0%,   /* deep forest green */
+  #198754 30%,  /* bootstrap success green */
+  #4f9a6e 60%,  /* soft mid-green */
+  #94d3a2 100%  /* light mint */
+    );
+  font-family: system-ui, sans-serif;
+  align-items: center;
+  background-size: 150% 150%;
+    background-position: 0 25%;
+
+    transition: background-position 1.4s ease;
+
+  /* transition: background-position 1.4s ease, background 1.4s ease; */
+}
+
+.gradientActive {
+    background-position: 75% 100%;
+   /* background: linear-gradient(135deg, 
+  red 0%,   
+  orange 30%,  
+  yellow 60%,  
+  green 100%
+    );
+   */
+}
+
+
+/* 
+.gradientActive {
+  animation: containerGradientMove 8s linear infinite;
+  background-size: 160% 160%;
+  animation-play-state: running;
+} */
+
+
+/* @keyframes containerGradientMove {
+  0%   { background-position: 0% 50%; }
+  50%  { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+} */
+
+.header {
+  /* padding: 16px; */
+  font-size: 20px;
+  font-weight: bold;
+  padding-top: 20px;
+  background: transparent;
+  color: white;
+  /* box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); */
+
+  max-height: 0%;
+  
+}
+
+.chatArea {
+  flex: 1;
+  /* padding: 20px; */
+  overflow-y: auto;
+  width: 100%;
+  padding: 10px;
+  padding-top: 70px;
+  box-sizing: border-box;
+  max-width: 60%;
+}
+
+.inputBar {
+  display: flex;
+  padding: 12px;
+  gap: 8px;
+  width: 60%;
+}
+
+.textInput {
+    color: white;
+
+  flex: 1;
+  padding: 12px;
+  border-radius: 12px;
+  font-size: 15px;
+  border: none;
+  outline: none;
+
+  /* static default look (keeps it consistent before focus) */
+  background: linear-gradient(90deg, #0f5132 0%, #198754 40%, #4f9a6e 70%, #94d3a2 100%);
+  background-size: 300% 100%; /* large width so animation has room to move */
+  
+
+  /* smooth transition for shadow / transform changes */
+  transition: box-shadow 120ms ease, transform 60ms ease;
+  /* -webkit-appearance: none; */
+}
+
+/* focus state: start the moving gradient + glow */
+.textInput:focus {
+  animation: textInputGradient 4s linear infinite;
+  /* box-shadow: 0 6px 20px rgba(25, 135, 84, 0.28), inset 0 1px 0 rgba(255,255,255,0.02); */
+    box-shadow: 0 0 6px rgba(25, 135, 84, 0.18); /* VERY soft glow */
+}
+
+/* optional: keyboard navigation ring removed but keep visible focus via shadow */
+.textInput:focus-visible {
+  outline: none;
+}
+
+/* subtle "typing" micro-lift when the user actively types (improves perceived responsiveness) */
+.textInput:active {
+  transform: translateY(1.5px);
+}
+
+/* keyframes that slide the gradient left→right→left */
+@keyframes textInputGradient {
+  0%   { background-position: 0% 20%; }
+  50%  { background-position: 40% 20%; }
+  100% { background-position: 0% 20%; }
+}
+
+.sendButton {
+  padding: 12px 20px;
+  font-weight: bold;
+  border: none;
+  border-radius: 12px;
+  cursor: pointer;
+
+  color: white;
+  /* background: linear-gradient(135deg, #6a4cff, #8a6cff); */
+  background: linear-gradient(90deg, #198754 0%, #198754 100%);
+  background-size: 200% 200%;
+  transition: transform 0.2s ease;
+}
+
+/* Hover = smooth gradient shift */
+.sendButton:hover {
+  animation: buttonHover 3s ease infinite;
+  transform: translateY(-2px);
+}
+
+.checkWrap:hover {
+  animation: buttonHover 3s ease infinite;
+  transform: translateY(-2px);
+}
+
+@keyframes buttonHover {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+/* Click = pulse pop animation */
+.sendButton:active {
+  animation: buttonClick 0.3s ease;
+  transform: scale(0.95);
+}
+
+@keyframes buttonClick {
+  0% {
+    box-shadow: 0 0 0 rgba(106, 76, 255, 0.7);
+  }
+  50% {
+    box-shadow: 0 0 18px rgba(106, 76, 255, 1);
+  }
+  100% {
+    box-shadow: 0 0 0 rgba(106, 76, 255, 0.7);
+  }
+}
+
+.test {
+    background-color: red;
+    width: 100%;
+    height: 100%;
+}
+
+/* .welcomeScreen {
+  min-height: 100vh;
+  text-align: center;
+  color: white;
+
+  padding-bottom: 8vh;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;    
+
+
+  transform: translateY(-100px); 
+} */
+
+.welcomeScreen {
+  width: 100%;
+  text-align: center;
+  color: white;
+  padding-bottom: 8vh;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  padding-top: 15vh; 
+}
+
+
+
+.fadeWrapper {
+  transition: opacity 0.6s ease, transform 0.6s ease;
+  opacity: 0;
+  transform: translateY(10px);
+}
+
+.visible {
+  opacity: 1;
+  transform: translateY(0);
+  pointer-events: auto;
+}
+
+.hidden {
+  opacity: 0;
+  transform: translateY(10px);
+  pointer-events: none;
+}
+
+
+.checkWrap {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+    font-weight: bold;
+  padding: 12px;
+  border-radius: 12px;
+
+  background: linear-gradient(90deg, #0f5132 0%, #198754 40%, #4f9a6e 70%, #94d3a2 100%);
+  background-size: 300% 100%;
+  color: white;
+  font-size: 15px;
+  cursor: pointer;
+
+  transition: box-shadow 120ms ease, transform 60ms ease;
+}
+
+.checkWrap:hover {
+  animation: textInputGradient 4s linear infinite;
+}
+
+.checkBox {
+  width: 18px;
+  height: 18px;
+  accent-color: #198754;
+  cursor: pointer;
+}
+
+/* .checkWrap:checked {
+  background: red;
+  background-color: red;
+}
+
+.checkWrap:checked .checkBox {
+  accent-color: #94d3a2;
+  background: red;
+  background-color: red;
+ 
+} */

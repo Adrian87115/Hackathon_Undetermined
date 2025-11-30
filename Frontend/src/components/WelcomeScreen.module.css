@@ -1,0 +1,54 @@
+/* .welcomeScreen {
+  min-height: 100vh;
+  text-align: center;
+  color: white;
+
+  padding-bottom: 8vh;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;    
+
+
+  transform: translateY(-100px); 
+} */
+
+
+.welcomeScreen h1 {
+  margin: 0 0 0 0;
+  font-size: 4.5rem;
+  font-weight: 800;
+}
+
+.welcomeScreen h2 {
+  margin: 0;
+  font-size: 1.8rem;
+  font-weight: 400;
+}
+
+.leaf {
+  font-size: 5rem;
+  margin-left: 0.4rem;
+}
+
+.welcomeContainer {
+  opacity: 0;
+  transform: translateY(20px);
+  animation: fadeUp 0.8s ease-out forwards;
+}
+
+@keyframes fadeUp {
+  from {
+    opacity: 0;
+    transform: translateY(-20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.leaf {
+  display: inline-block;
+}
