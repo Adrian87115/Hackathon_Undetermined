@@ -33,11 +33,11 @@ def process_text(req: TextRequest):
     # time.sleep(2)
     # reponse = f"{req.text} changed"
 
-    model = ECOGPT(checkpoint="Python/models/eco_gpt_20.pth", batch_size = 32, sequence_length = 64)
+    model = ECOGPT(checkpoint="/home/norbert/Hackathon_Undetermined/eco_gpt_20.pth", batch_size = 32, sequence_length = 64)
 
     output = model.generateResponse(req.text)
 
-
+    print(output)
     return {"received": output}
 
 
@@ -59,10 +59,12 @@ def backend_chat(req: ChatRequest):
     This endpoint receives the exact body your frontend sends,
     forwards it to OpenAI, and returns the OpenAI response unchanged.
     """
+    print("prompt sent")
     response = client.chat.completions.create(
         model=req.model,
         messages=[m.dict() for m in req.messages]
     )
-
+    print("response sent")
+    print(response)
     # Return EXACT same shape as OpenAI API so frontend doesn’t change
     return response

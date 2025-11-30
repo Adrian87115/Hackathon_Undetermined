@@ -14,13 +14,13 @@ class ECOGPT():
                                                                                                                # train_mode = True : training mode
         super(ECOGPT, self).__init__()
         # assert torch.cuda.is_available(), "CUDA is not available"
-        self.device = torch.device("cuda")
+        self.device = torch.device("cpu")
         self.checkpoint = checkpoint
         self.train_mode = train_mode
         self.batch_size = batch_size
         self.sequence_length = sequence_length
         self.current_epoch = 0
-        self.config = u.loadConfig("/Users/norbert/Hackathon_Undetermined/Python/config.json")
+        self.config = u.loadConfig("/home/norbert/Hackathon_Undetermined/Python/config.json")
         self.max_epochs = self.config.max_epochs
         self.model = m.ScaledGPT(self.config).to(self.device)
         torch.backends.cuda.matmul.fp32_precision = 'tf32'

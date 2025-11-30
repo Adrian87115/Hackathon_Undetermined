@@ -16,6 +16,9 @@ export async function sendToOpenAI(messages: { role: string; content: string }[]
     throw new Error("Backend error");
   }
 
+  console.log('before await')
   const data = await res.json();
+  console.log('after await')
+
   return data.choices?.[0]?.message?.content as string;
 }

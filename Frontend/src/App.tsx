@@ -28,7 +28,7 @@ export default function App() {
     setInput("");
     setLoading(true);
     setIsNewSession(false);
-
+    const oldmessage = input
     const userMessage: Message = { role: "user", content: input };
     setMessages((prev) => [...prev, userMessage]);
 
@@ -57,12 +57,15 @@ export default function App() {
 
       // });
 
+      // userMessage.content = userMessage.content + (briefChecked ? ", briefly" : "");
+      const newcontent = `Old Prompt: ${input} \n\n New Prompt: ${data.received + (briefChecked ? " briefly" : "")}`
       setMessages((prev) => {
         return prev.map((msg, i) => {
           if (i === prev.length - 1) {
             return {
               ...msg,
-              content: data.received,
+              // content: data.received,
+              content: newcontent,
               animate: true,
             };
           }
@@ -85,7 +88,7 @@ export default function App() {
 
     
 
-    userMessage.content = userMessage.content + (briefChecked ? ", briefly" : "");
+    userMessage.content = userMessage.content + (briefChecked ? " briefly" : "");
 
     console.log("Final user message content:",userMessage.content);
     try {
@@ -113,7 +116,7 @@ export default function App() {
     className={`${styles.container} ${briefChecked ? styles.gradientActive : ""}`}
     // className={`${styles.container} ${styles.gradientActive}`}
     >
-      <header className={styles.header}>ChatGPT Frontend (TS)</header>
+      <header className={styles.header}>BY UNDETERMINED</header>
 
       <main className={styles.chatArea}>
         {messages.map((m, i) => (
