@@ -6,21 +6,18 @@ import utils as u
 import dataloader as dl
 
 class ECOGPT():
-    def __init__(self, dataset_path = None, checkpoint = None, train_mode = True, batch_size = 16, total_batch_size = 128 * 16, sequence_length = 64): # train_mode = False : not in training mode
-                                                                                                                                                                        # train_mode = True : training mode
+    def __init__(self, batch_size, sequence_length,train_mode = True, dataset_path = None, checkpoint = None): # train_mode = False : not in training mode
+                                                                                                               # train_mode = True : training mode
         super(ECOGPT, self).__init__()
         assert torch.cuda.is_available(), "CUDA is not available"
         self.device = torch.device("cuda")
         self.checkpoint = checkpoint
         self.train_mode = train_mode
         self.batch_size = batch_size
-        self.total_batch_size = total_batch_size
         self.sequence_length = sequence_length
         self.current_epoch = 0
         self.config = u.loadConfig("config.json")
         self.max_epochs = self.config.max_epochs
-        assert total_batch_size % (batch_size * sequence_length) == 0, "total_batch_size is not divisible by batch_size * sequence_length"
-        self.grad_accum_steps = total_batch_size // (batch_size * sequence_length)
         self.model = m.ScaledGPT(self.config).to(self.device)
         torch.backends.cuda.matmul.fp32_precision = 'tf32'
         torch.backends.cudnn.conv.fp32_precision = 'tf32'
@@ -39,8 +36,7 @@ class ECOGPT():
         if self.checkpoint:
             self.loadModel()
 
-        with open("logs/evaluation_log.txt", "w") as f:
-            pass
+        
 
     def saveModel(self):
         model_state = {k: v for k, v in self.model.state_dict().items()}
@@ -70,6 +66,9 @@ class ECOGPT():
         return optimizer
 
     def train(self):
+        with open("logs/evaluation_log.txt", "w") as f:
+            pass
+
         print("Training started...")
 
         for epoch in range(self.current_epoch + 1, self.max_epochs + 1):
@@ -95,26 +94,29 @@ class ECOGPT():
                     loss.backward()
 
                 except StopIteration:
-                    break  # End of epoch
+                    break
 
-                # Gradient clip + step
                 norm = torch.nn.utils.clip_grad_norm_(self.model.parameters(), 1.0)
                 self.optimizer.step()
                 torch.cuda.synchronize()
-
                 total_loss += loss.item()
                 total_batches += 1
-
                 dt = (time.time() - t0) * 1000
                 print(f"Batch {total_batches:4d} | Loss: {loss.item():.6f} | Norm: {norm:.4f} | Time: {dt:.2f} ms")
 
             avg_train_loss = total_loss / max(1, total_batches)
             print(f"\nEpoch {epoch} completed. Avg Train Loss: {avg_train_loss:.6f}")
 
-            # Evaluate and save checkpoint
             self.evaluate()
             self.saveModel()
-
+            try:
+                self.train_loader.current_idx = 0
+                sample_x, _ = self.train_loader.nextBatch()
+                sample_input = self.train_loader.enc.decode(sample_x[0].tolist()).split("<|sep|>")[0].replace("<|start|>", "").strip()
+                sample_output = self.generateResponse(sample_input, max_seq_length=64)
+                print(f"\n--- Sample generated output ---\nInput : {sample_input}\nOutput: {sample_output}\n-------------------------------\n")
+            except Exception as e:
+                print(f"Could not generate sample output: {e}")
 
     def evaluate(self):
         print(f"Evaluating (Epoch {self.current_epoch})...")
@@ -144,8 +146,6 @@ class ECOGPT():
     def generateResponse(self, input, max_seq_length = 64):
         self.model.eval()
         enc = u.CustomTokenizer()
-
-        # Use <|sep|> to indicate start of target
         prompt = f"<|start|>{input}<|sep|>"
         print(prompt)
         input_tokens = enc.encode(prompt)
@@ -169,13 +169,10 @@ class ECOGPT():
                 if "<|end|>" in decoded:
                     break
         print(tokens_tensor)
-        # Strip start and separator tokens, keep only the target
         full_decoded = enc.decode(tokens_tensor[0].tolist())
         print(full_decoded)
         response = full_decoded.split("<|sep|>")[-1].split("<|end|>")[0].strip()
         return response
-
-
 
 def convert(model):
     assert model.checkpoint is not None, "No checkpoint."
@@ -190,7 +187,6 @@ def convert(model):
             print("Goodbye!")
             break
 
-        # Generate the model response
         output = model.generateResponse(user_input)
 
         print("\n=== Generated Output ===\n")

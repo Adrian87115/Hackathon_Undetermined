@@ -1,11 +1,14 @@
 {
-  "block_size": 128,
+  "block_size": 64,
   "vocab_size": 50304,
+
   "n_layer": 4,
   "n_head": 4,
-  "n_embd": 128,
-  "max_lr": 5e-4,
-  "min_lr": 1e-5,
+  "n_embd": 256,
+
+  "max_lr": 3e-4,
+  "min_lr": 1e-6,
+
   "warmup_epochs": 2,
   "max_epochs": 20
 }
